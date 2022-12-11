@@ -1,4 +1,4 @@
-# Septimus-Extended---NPC Dialogue Addon (OPEN BETA)
+# Septimus-Extended---NPC Dialogue Addon
 
 # Introduction
 
