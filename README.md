@@ -54,11 +54,51 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [10] Denizens of Morthal - Dialogue and Character Expander**
    
-11.) Download [X]().
+11.) Download [Denizens of Morthal - Dialogue and Character Expander - Ulfr the Blind Head Mesh and Texture](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=193055).
+
+   - Install it under the name **[NoDelete] [11] Denizens of Morthal - Dialogue and Character Expander - Fix**
+   
+12.) Download [Denizens of Morthal - Dialogue and Character Expander - Finding Helgi Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130702).
+
+   - Install it under the name **[NoDelete] [12] Denizens of Morthal - Finding Helgi Patch**
+
+13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=332685).
+
+   - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
+
+14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=331725). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page, I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+
+   - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Patch Hub**
+
+15.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601).
+
+   - Install it under the name **[NoDelete] [15] Serana Dialogue Add-On - Pilgrim Patch**
+
+16.) Download [X]().
 
    - Install it under the name **X**
-   
-12.) Download [X]().
+
+17.) Download [X]().
+
+   - Install it under the name **X**
+
+18.) Download [X]().
+
+   - Install it under the name **X**
+
+19.) Download [X]().
+
+   - Install it under the name **X**
+
+20.) Download [X]().
+
+   - Install it under the name **X**
+
+21.) Download [X]().
+
+   - Install it under the name **X**
+
+22.) Download [X]().
 
    - Install it under the name **X**
 
