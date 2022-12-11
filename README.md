@@ -1,4 +1,4 @@
-# Septimus-Extended---NPC-Dialogue Addon (WIP)
+# Septimus-Extended---NPC Dialogue Addon (WIP)
 
 # Introduction
 
