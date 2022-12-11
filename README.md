@@ -93,7 +93,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [19] Song of the Green (Auri Follower) - Enhanced Voice**
 
-20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286) ("View raw" button).
+20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286).
 
    - Install it under the name **[NoDelete] [20] Auri - Kaidan Banter Patch**
 
