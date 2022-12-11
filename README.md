@@ -72,7 +72,6 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 # Last Steps
 
-##
 ### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [].
