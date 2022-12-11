@@ -77,7 +77,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 16.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835).
 
    - Install it under the name **[NoDelete] [16] Teldryn Sero Dialogue Expansion**
-   - **IMPORTANT** - It's recommended to make tweaks to Configurable Commentary Rate Slider's MCM menu in-game to however you deem fit, especially since this mod makes Teldryn pretty talkative (he has a lot of fun things to say, though!).
+   - **IMPORTANT** - It's recommended to make tweaks to Configurable Commentary Rate Slider's MCM menu in-game to however you deem fit, especially since this mod makes Teldryn pretty talkative (he has a lot of fun things to say, though!). That mod is already included in Septimus.
 
 17.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866).
 
