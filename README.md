@@ -14,13 +14,13 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Baseline
 
-1.) Download [X]().
+1.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [01] Bloodbond - Contract with the Vampire**
    
-2.) Download [X]().
+2.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [02] Bloodbond - Alternative Player Dialogue**
    
 3.) Download [X]().
 
