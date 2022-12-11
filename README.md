@@ -131,11 +131,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [27] Underwhelming Multiple Followers**
    
-28.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442) ONLY IF you did NOT download Relationship Dialogue Addon. If you DID download Relationship Dialogue Addon, skip this and download the file below instead.
+28.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442) ONLY IF you did NOT download Relationship Dialogue Overhaul. If you DID download Relationship Dialogue Overhaul, skip this and download the file below instead.
 
    - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers - USSEP Patch**
    
-29.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419)  ONLY IF you DID download Relationship Dialogue Addon. If you DID NOT download Relationship Dialogue Addon, skip this and download the file above instead.
+29.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419)  ONLY IF you DID download Relationship Dialogue Overhaul. If you DID NOT download Relationship Dialogue Overhaul, skip this and download the file above instead.
 
    - Install it under the name **[NoDelete] [29] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
