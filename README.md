@@ -56,4 +56,16 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
    
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion.
    
+   1.) Download [X]().
+
+   - Install it under the name **X**
    
+1.) Download [X]().
+
+   - Install it under the name **X**
+   
+1.) Download [X]().
+
+   - Install it under the name **X**
+
+**WARNING** - Underwhelming Multiple Followers is more of an AI expansion rather than a dialogue expansion, but I have included it as an optional file for those who are interested in utilizing a multiple follower framework. It's a mod that **should not be uninstalled mid-game**, so choose wisely if you want to install this portion.
