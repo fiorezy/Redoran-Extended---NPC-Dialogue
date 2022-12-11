@@ -1,4 +1,4 @@
-# Septimus-Extended---NPC Dialogue Addon (WIP)
+# Septimus-Extended---NPC Dialogue Addon (OPEN BETA)
 
 # Introduction
 
@@ -105,21 +105,25 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-**IMPORTANT** - Move the all the plugins in this section directly ABOVE **bloodbond.esp**.
-
-1.) Download [X]().
-
-   - Install it under the name **X**
-   
-1.) Download [X]().
-
-   - Install it under the name **X**
-   
-1.) Download [X]().
-
-   - Install it under the name **X**
-   
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion.
+
+23.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171).
+
+   - Install it under the name **[NoDelete] [23] Relationship Dialogue Overhaul - RDO**
+   
+24.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
+
+   - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - Update and MCM**
+   
+25.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
+
+   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - UHDAP Patch**
+
+26.) Download [RDO - Updated USSEP Subtitle Fixes]() ("View raw" button).
+
+   - Install it under the name **[NoDelete] [26] RDO - Updated USSEP Subtitle Fixes**
+
+**IMPORTANT** - Move the all the plugins in this section directly ABOVE **bloodbond.esp**.
    
    1.) Download [X]().
 
