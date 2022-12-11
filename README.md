@@ -66,7 +66,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
 
-14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=331725). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page, I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=331725). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
    - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Patch Hub**
 
@@ -74,33 +74,34 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [15] Serana Dialogue Add-On - Pilgrim Patch**
 
-16.) Download [X]().
+16.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [16] Teldryn Sero Dialogue Expansion**
+   - **IMPORTANT** - It's recommended to make tweaks to Configurable Commentary Rate Slider's MCM menu in-game to however you deem fit, especially since this mod makes Teldryn pretty talkative (he has a lot of fun things to say, though!).
 
-17.) Download [X]().
+17.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [17] A Serious Wedding - Teldryn Sero Marriage Mod**
 
-18.) Download [X]().
+18.) Download [Lucien - Beyond Skyrim - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20035?tab=files&file_id=338770).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [18] Lucien - Beyond Skyrim - Bruma Patch**
 
-19.) Download [X]().
+19.) Download [Song of the Green (Auri Follower) - Enhanced Voice](https://www.nexusmods.com/skyrimspecialedition/mods/63787?tab=files&file_id=338903).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [19] Song of the Green (Auri Follower) - Enhanced Voice**
 
-20.) Download [X]().
+20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [20] Auri - Song of the Green - Kaidan Banter Patch**
 
-21.) Download [X]().
+21.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the Kaidan & Inigo Banter Patch should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [21] Kaidan 2 Extended Edition - Inigo Banter Patch**
 
-22.) Download [X]().
+22.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the Skyrim's Got Talent Patch should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [22] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
