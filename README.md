@@ -83,7 +83,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 4.1.0+ of Septimus.**
-   - **Currently works with the [Septimus-Extended---LOTD Addon](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
+   - **Currently works with the [Septimus-Extended - LOTD Addon](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
    - **A patch is needed for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) which you can find here: **[ [DOWNLOAD]() ] ("View raw" button)****
 
 # Changelog
