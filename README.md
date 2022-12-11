@@ -123,21 +123,21 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [26] RDO - Updated USSEP Subtitle Fixes**
 
-**IMPORTANT** - Move the all the plugins in this section directly ABOVE **bloodbond.esp**.
-   
-   1.) Download [X]().
-
-   - Install it under the name **X**
-   
-1.) Download [X]().
-
-   - Install it under the name **X**
-   
-1.) Download [X]().
-
-   - Install it under the name **X**
-
 **WARNING** - Underwhelming Multiple Followers is more of an AI expansion rather than a dialogue expansion, but I have included it as an optional file for those who are interested in utilizing a multiple follower framework. It's a mod that **should not not be uninstalled mid-game**, so choose wisely if you want to install this portion.
+   
+ 27.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090).
+
+   - Install it under the name **[NoDelete] [27] Underwhelming Multiple Followers**
+   
+28.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442) ONLY IF you did NOT download Relationship Dialogue Addon. If you DID download Relationship Dialogue Addon, skip this and download the file below instead.
+
+   - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers - USSEP Patch**
+   
+29.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419)  ONLY IF you DID download Relationship Dialogue Addon. If you DID NOT download Relationship Dialogue Addon, skip this and download the file above instead.
+
+   - Install it under the name **[NoDelete] [29] Underwhelming Multiple Followers - USSEP - RDO Patch**
+
+**IMPORTANT** - Move the all the plugins in this entire optional section directly ABOVE **bloodbond.esp**.
 
 # Last Steps
 
