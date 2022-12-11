@@ -12,7 +12,7 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
 All the plugins going forward will be at the very bottom, **below all of the Septimus patches**.
 
-## Baseline
+## General Overhauls
 
 1.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411).
 
@@ -62,7 +62,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [12] Denizens of Morthal - Finding Helgi Patch**
 
-## Follower Specific
+## Follower Specific Overhauls
 
 13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=332685).
 
