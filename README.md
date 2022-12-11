@@ -119,7 +119,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - UHDAP Patch**
 
-26.) Download [RDO - Updated USSEP Subtitle Fixes]() ("View raw" button).
+26.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
 
    - Install it under the name **[NoDelete] [26] RDO - Updated USSEP Subtitle Fixes**
 
@@ -141,19 +141,19 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [].
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
-   - If you downloaded **Underwhelming Multiple Followers**, download the patch from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF Patch.
-   - If you downloaded **BOTH** Relationship Dialogue Overhaul and Underwhelming Multiple Followers, download the patch from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF - RDO Patch.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
+   - If you downloaded **Underwhelming Multiple Followers**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20LarsepanUMF%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF Patch.
+   - If you downloaded **BOTH** Relationship Dialogue Overhaul and Underwhelming Multiple Followers, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20LarsepanUMF%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF - RDO Patch.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 4.1.0+ of Septimus.**
    - **Currently works with the [Septimus-Extended - LOTD Addon](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
-   - **A patch for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: [ [DOWNLOAD]() ] ("View raw" button). All the mods in that addon need to load AFTER this one on BOTH sides of MO2.**
+   - **A patch for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20NPC%20Overhaul%20Addon%20Patch.7z) ] ("View raw" button). All the mods in that addon need to load AFTER this one on BOTH sides of MO2.**
 
 # Changelog
 
