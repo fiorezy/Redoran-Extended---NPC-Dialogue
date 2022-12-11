@@ -62,6 +62,8 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [12] Denizens of Morthal - Finding Helgi Patch**
 
+## Follower Specific
+
 13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=332685).
 
    - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
