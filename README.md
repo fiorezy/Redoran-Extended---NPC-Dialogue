@@ -108,7 +108,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 
    - **Currently in the process of testing with version 4.1.0+ of Septimus.**
    - **Currently works with the [Septimus-Extended - LOTD Addon](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
-   - **A patch for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: **[ [DOWNLOAD]() ] ("View raw" button)**. All the mods in that addon need to load AFTER this one on BOTH sides of MO2.
+   - **A patch for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: [ [DOWNLOAD]() ] ("View raw" button). All the mods in that addon need to load AFTER this one on BOTH sides of MO2. **
 
 # Changelog
 
