@@ -46,13 +46,13 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [08] Carriages and Stables Dialogue Bundle - CFTO Patch**
    
-9.) Download [X]().
+9.) Download [Forsworn and Thalmor Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80188?tab=files&file_id=339352).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [09] Forsworn and Thalmor Lines Expansion**
 
-10.) Download [X]().
+10.) Download [Denizens of Morthal - Dialogue and Character Expander](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130508).
 
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [10] Denizens of Morthal - Dialogue and Character Expander**
    
 11.) Download [X]().
 
@@ -108,7 +108,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 
    - **Currently in the process of testing with version 4.1.0+ of Septimus.**
    - **Currently works with the [Septimus-Extended - LOTD Addon](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
-   - **A patch for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: **[ [DOWNLOAD]() ] ("View raw" button)****
+   - **A patch for [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: **[ [DOWNLOAD]() ] ("View raw" button)**. All the mods in that addon need to load AFTER this one on BOTH sides of MO2.
 
 # Changelog
 
