@@ -22,19 +22,43 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [02] Bloodbond - Alternative Player Dialogue**
    
-3.) Download [X]().
+3.) Download [Fare Thee Well - Spouses and Children Give Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/56366?tab=files&file_id=234888).
+
+   - Install it under the name **[NoDelete] [03] Fare Thee Well - Spouses and Children Give Blessings**
+   
+4.) Download [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733?tab=files&file_id=338481). This mod has technically been installed already since default Septimus uses it, but this is an updated version that was made to be more compatible/consistent with some of the mods we will be installing later on. You do NOT need to re-adjust the Bandit Lines Expansion.esp on the right side of MO2, as it is fine where it currently is.
+
+   - Install it under the name **[NoDelete] [04] Bandit Lines Expansion (Updated)**
+   
+5.) Download [Civil War Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77566?tab=files&file_id=338487). This mod has technically been installed already since default Septimus uses it, but this is an updated version that was made to be more compatible/consistent with some of the mods we will be installing later on. You do NOT need to re-adjust the Civil War Lines Expansion.esp on the right side of MO2, as it is fine where it currently is.
+
+   - Install it under the name **[NoDelete] [05] Civil War Lines Expansion (Updated)**
+   
+6.) Download [Carriages and Stables Dialogue Bundle](https://www.nexusmods.com/skyrimspecialedition/mods/79297?tab=files&file_id=334238).
+
+   - Install it under the name **[NoDelete] [06] Carriages and Stables Dialogue Bundle**
+
+7.) Download [Carriages and Stables Dialogue Bundle - CC Wild Horses Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79297?tab=files&file_id=334239).
+
+   - Install it under the name **[NoDelete] [07] Carriages and Stables Dialogue Bundle - CC Wild Horses Patch**
+   
+8.) Download [Carriages and Stables Dialogue Bundle - CFTO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79297?tab=files&file_id=338955).
+
+   - Install it under the name **[NoDelete] [08] Carriages and Stables Dialogue Bundle - CFTO Patch**
+   
+9.) Download [X]().
+
+   - Install it under the name **X**
+
+10.) Download [X]().
 
    - Install it under the name **X**
    
-4.) Download [X]().
+11.) Download [X]().
 
    - Install it under the name **X**
    
-5.) Download [X]().
-
-   - Install it under the name **X**
-   
-6.) Download [X]().
+12.) Download [X]().
 
    - Install it under the name **X**
 
