@@ -93,51 +93,55 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [19] Song of the Green (Auri Follower) - Enhanced Voice**
 
-20.) Download [Auri - Song of the Green - Kaidan Banter Patch - Fixed Plugin Replacer]() ("View raw" button).
+20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [20] Auri - Song of the Green - Kaidan Banter Patch - Fixed Plugin Replacer**
+   - Install it under the name **[NoDelete] [20] Auri - Kaidan Banter Patch**
 
-21.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the Kaidan & Inigo Banter Patch should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+21.) Download [Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Auri%20-%20Kaidan%20Banter%20Patch%20-%20Kaidan%20Romance%20Progression%20Fix.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [21] Kaidan 2 Extended Edition - Inigo Banter Patch**
+   - Install it under the name **[NoDelete] [21] Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix**
 
-22.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the Skyrim's Got Talent Patch should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+22.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the Kaidan & Inigo Banter Patch should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [22] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
+   - Install it under the name **[NoDelete] [22] Kaidan 2 Extended Edition - Inigo Banter Patch**
+
+23.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the Skyrim's Got Talent Patch should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+
+   - Install it under the name **[NoDelete] [23] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion.
 
-23.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171).
+24.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171).
 
-   - Install it under the name **[NoDelete] [23] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - RDO**
    
-24.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
+25.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
 
-   - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - Update and MCM**
    
-25.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
+26.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
 
-   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [26] Relationship Dialogue Overhaul - UHDAP Patch**
 
-26.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
+27.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [26] RDO - Updated USSEP Subtitle Fixes**
+   - Install it under the name **[NoDelete] [27] RDO - Updated USSEP Subtitle Fixes**
 
 **WARNING** - Underwhelming Multiple Followers is more of an AI expansion rather than a dialogue expansion, but I have included it as an optional file for those who are interested in utilizing a multiple follower framework. It's a mod that **should not not be uninstalled mid-game**, so choose wisely if you want to install this portion.
    
- 27.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090).
+ 28.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090).
 
-   - Install it under the name **[NoDelete] [27] Underwhelming Multiple Followers**
+   - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers**
    
-28.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442) ONLY IF you did NOT download Relationship Dialogue Overhaul. If you DID download Relationship Dialogue Overhaul, skip this and download the file below instead.
+29.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442) ONLY IF you did NOT download Relationship Dialogue Overhaul. If you DID download Relationship Dialogue Overhaul, skip this and download the file below instead.
 
-   - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers - USSEP Patch**
+   - Install it under the name **[NoDelete] [29] Underwhelming Multiple Followers - USSEP Patch**
    
-29.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419)  ONLY IF you DID download Relationship Dialogue Overhaul. If you DID NOT download Relationship Dialogue Overhaul, skip this and download the file above instead.
+30.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419)  ONLY IF you DID download Relationship Dialogue Overhaul. If you DID NOT download Relationship Dialogue Overhaul, skip this and download the file above instead.
 
-   - Install it under the name **[NoDelete] [29] Underwhelming Multiple Followers - USSEP - RDO Patch**
+   - Install it under the name **[NoDelete] [30] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
 **IMPORTANT** - Move the all the plugins in this entire optional section directly ABOVE **bloodbond.esp**.
 
@@ -145,7 +149,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [21] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch.
+Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [23] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch.
 
    - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
    - If you downloaded **Underwhelming Multiple Followers**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20LarsepanUMF%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF Patch.
@@ -161,5 +165,5 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 
 1.0.1
    - Removed unnecessary masters from megapatch and RDO patch.
-   - Added 20.) Auri - Song of the Green - Kaidan Banter Patch - Fixed Plugin Replacer.
-   - Re-numbered everything from 21 to 29 (SORRY!).
+   - Added 21.) Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix.
+   - Re-numbered everything from 21 to 30 (SORRY!).
