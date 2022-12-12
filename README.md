@@ -68,7 +68,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
 
-14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=331725). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
    - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Patch Hub**
 
@@ -164,6 +164,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 # Changelog
 
 1.0.1
+   - Updated Serana Dialogue Add-On Patch Hub
    - Removed unnecessary masters from megapatch and RDO patch.
    - Added 21.) Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix.
    - Re-numbered everything from 21 to 30 (SORRY!).
