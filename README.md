@@ -164,8 +164,8 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 # Changelog
 
 1.0.1
+   - Added 21.) Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix.
    - Updated Serana Dialogue Add-On Patch Hub
    - Updated Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix
    - Removed unnecessary masters from megapatch and RDO patch.
-   - Added 21.) Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix.
    - Re-numbered everything from 21 to 30 (SORRY!).
