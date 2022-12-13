@@ -64,7 +64,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Follower Specific Overhauls
 
-13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=332685).
+13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246).
 
    - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
 
@@ -165,7 +165,8 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 
 1.0.1
    - Added 21.) Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix.
-   - Updated Serana Dialogue Add-On Patch Hub
    - Updated Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix
+   - Updated Serana Dialogue Add-On Patch Hub
+   - Updated Serana Dialogue Add-On SE
    - Removed unnecessary masters from megapatch and RDO patch.
    - Re-numbered everything from 21 to 30 (SORRY!).
