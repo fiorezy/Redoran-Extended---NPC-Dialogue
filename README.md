@@ -163,6 +163,23 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 
 # Changelog
 
+2.0
+   - Added Missing Follower Dialogue Edit
+   - Added Missing Follower Dialogue Edit - USSEP Patch
+   - Added BUVARP SE RE
+   - Added BUVARP SE RE - Anska Home Terrain Fix
+   - Added BUVARP SE RE - Farmhouse Chimney Patch
+   - Added Underwhelming Multiple Followers (now required instead of being optional)
+   - Added Underwhelming Multiple Followers - USSEP Patch (now required instead of being optional)
+   - Removed Bandit Lines Expansion (Updated) as it was updated in the general guide.
+   - Removed Civil War Lines Expansion (Updated) as it was updated in the general guide.
+   - Removed Carriages and Stables Dialogue Bundle as it was added into Septimus.
+   - Removed Carriages and Stables Dialogue Bundle - CC Wild Horses Patch as it was added into Septimus.
+   - Removed Carriages and Stables Dialogue Bundle - CFTO Patch as it was added into Septimus. 
+   - Removed Forsworn and Thalmor Lines Expansion as it was added into Septimus.
+   - Removed Septimus Extended - NPC Dialogue Addon - LarsepanUMF Patch as it was integrated into the megapatch.
+   - Re-numbered everything from top down (SORRY!).
+
 1.0.1
    - Added 21.) Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix.
    - Updated Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix
