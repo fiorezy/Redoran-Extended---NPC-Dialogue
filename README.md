@@ -133,7 +133,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
-**IMPORTANT** - Move the following plugins directly ABOVE **Missing Follower Dialogue Fix.esp**: Relationship Dialogue Overhaul.esp - RDO Updated.esp - RDO - Updated USSEP Subtitle Fixes.esp. Move the following plugin directly BELOW **LarsepanUMF-USSEP-Patch.esp**: LarsepanUMF-RDO-USSEP-Patch.esp.
+**IMPORTANT** - Move the following plugins directly ABOVE **Missing Follower Dialogue Fix.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp. Move the following plugin directly BELOW **LarsepanUMF-USSEP-Patch.esp**: LarsepanUMF-RDO-USSEP-Patch.esp.
 
 # Last Steps
 
