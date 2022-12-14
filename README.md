@@ -14,146 +14,138 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## General Overhauls
 
-1.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411).
+1.) Download [Missing Follower Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/56115?tab=files&file_id=331548).
 
-   - Install it under the name **[NoDelete] [01] Bloodbond - Contract with the Vampire**
+   - Install it under the name **[NoDelete] [01] Missing Follower Dialogue Edit**
+
+2.) Download [Missing Follower Dialogue Edit - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/56115?tab=files&file_id=328980).
+
+   - Install it under the name **[NoDelete] [02] Missing Follower Dialogue Edit - USSEP Patch**
+
+3.) Download [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120?tab=files&file_id=328985).
+
+   - Install it under the name **[NoDelete] [03] BUVARP SE RE**
+
+4.) Download [BUVARP SE RE - Anska Home Terrain Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67135?tab=files&file_id=298364).
+
+   - Install it under the name **[NoDelete] [04] BUVARP SE RE - Anska Home Terrain Fix**
+
+5.) Download [BUVARP SE RE - Farmhouse Chimney Patch](https://www.nexusmods.com/skyrimspecialedition/mods/67135?tab=files&file_id=279787).
+
+   - Install it under the name **[NoDelete] [05] BUVARP SE RE - Farmhouse Chimney Patch**
+
+6.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090).
+
+   - Install it under the name **[NoDelete] [06] Underwhelming Multiple Followers**
+
+7.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442).
+
+   - Install it under the name **[NoDelete] [07] Underwhelming Multiple Followers - USSEP Patch**
+
+8.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411).
+
+   - Install it under the name **[NoDelete] [08] Bloodbond - Contract with the Vampire**
    
-2.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941).
+9.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941).
 
-   - Install it under the name **[NoDelete] [02] Bloodbond - Alternative Player Dialogue**
+   - Install it under the name **[NoDelete] [09] Bloodbond - Alternative Player Dialogue**
    
-3.) Download [Fare Thee Well - Spouses and Children Give Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/56366?tab=files&file_id=234888).
+10.) Download [Fare Thee Well - Spouses and Children Give Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/56366?tab=files&file_id=234888).
 
-   - Install it under the name **[NoDelete] [03] Fare Thee Well - Spouses and Children Give Blessings**
+   - Install it under the name **[NoDelete] [10] Fare Thee Well - Spouses and Children Give Blessings**
+
+11.) Download [Denizens of Morthal - Dialogue and Character Expander](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130508).
+
+   - Install it under the name **[NoDelete] [11] Denizens of Morthal - Dialogue and Character Expander**
    
-4.) Download [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733?tab=files&file_id=338481). This mod has technically been installed already since default Septimus uses it, but this is an updated version that was made to be more compatible/consistent with some of the mods we will be installing later on. You do NOT need to re-adjust the Bandit Lines Expansion.esp on the right side of MO2, as it is fine where it currently is.
+12.) Download [Denizens of Morthal - Dialogue and Character Expander - Ulfr the Blind Head Mesh and Texture](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=193055).
 
-   - Install it under the name **[NoDelete] [04] Bandit Lines Expansion (Updated)**
+   - Install it under the name **[NoDelete] [12] Denizens of Morthal - Dialogue and Character Expander - Fix**
    
-5.) Download [Civil War Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77566?tab=files&file_id=338487). This mod has technically been installed already since default Septimus uses it, but this is an updated version that was made to be more compatible/consistent with some of the mods we will be installing later on. You do NOT need to re-adjust the Civil War Lines Expansion.esp on the right side of MO2, as it is fine where it currently is.
+13.) Download [Denizens of Morthal - Dialogue and Character Expander - Finding Helgi Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130702).
 
-   - Install it under the name **[NoDelete] [05] Civil War Lines Expansion (Updated)**
-   
-6.) Download [Carriages and Stables Dialogue Bundle](https://www.nexusmods.com/skyrimspecialedition/mods/79297?tab=files&file_id=334238).
-
-   - Install it under the name **[NoDelete] [06] Carriages and Stables Dialogue Bundle**
-
-7.) Download [Carriages and Stables Dialogue Bundle - CC Wild Horses Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79297?tab=files&file_id=334239).
-
-   - Install it under the name **[NoDelete] [07] Carriages and Stables Dialogue Bundle - CC Wild Horses Patch**
-   
-8.) Download [Carriages and Stables Dialogue Bundle - CFTO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79297?tab=files&file_id=338955).
-
-   - Install it under the name **[NoDelete] [08] Carriages and Stables Dialogue Bundle - CFTO Patch**
-   
-9.) Download [Forsworn and Thalmor Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80188?tab=files&file_id=339352).
-
-   - Install it under the name **[NoDelete] [09] Forsworn and Thalmor Lines Expansion**
-
-10.) Download [Denizens of Morthal - Dialogue and Character Expander](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130508).
-
-   - Install it under the name **[NoDelete] [10] Denizens of Morthal - Dialogue and Character Expander**
-   
-11.) Download [Denizens of Morthal - Dialogue and Character Expander - Ulfr the Blind Head Mesh and Texture](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=193055).
-
-   - Install it under the name **[NoDelete] [11] Denizens of Morthal - Dialogue and Character Expander - Fix**
-   
-12.) Download [Denizens of Morthal - Dialogue and Character Expander - Finding Helgi Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130702).
-
-   - Install it under the name **[NoDelete] [12] Denizens of Morthal - Finding Helgi Patch**
+   - Install it under the name **[NoDelete] [13] Denizens of Morthal - Finding Helgi Patch**
 
 ## Follower Specific Overhauls
 
-13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246).
+14.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246).
 
-   - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
+   - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On**
 
-14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+15.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
-   - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Patch Hub**
+   - Install it under the name **[NoDelete] [15] Serana Dialogue Add-On - Patch Hub**
 
-15.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601).
+16.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601).
 
-   - Install it under the name **[NoDelete] [15] Serana Dialogue Add-On - Pilgrim Patch**
+   - Install it under the name **[NoDelete] [16] Serana Dialogue Add-On - Pilgrim Patch**
 
-16.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835).
+17.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835).
 
-   - Install it under the name **[NoDelete] [16] Teldryn Sero Dialogue Expansion**
+   - Install it under the name **[NoDelete] [17] Teldryn Sero Dialogue Expansion**
    - **IMPORTANT** - It's recommended to make tweaks to Configurable Commentary Rate Slider's MCM menu in-game to however you deem fit, especially since this mod makes Teldryn pretty talkative (he has a lot of fun things to say, though!).
 
-17.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866).
+18.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866).
 
-   - Install it under the name **[NoDelete] [17] A Serious Wedding - Teldryn Sero Marriage Mod**
+   - Install it under the name **[NoDelete] [18] A Serious Wedding - Teldryn Sero Marriage Mod**
 
-18.) Download [Lucien - Beyond Skyrim - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20035?tab=files&file_id=338770).
+19.) Download [Lucien - Beyond Skyrim - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20035?tab=files&file_id=338770).
 
-   - Install it under the name **[NoDelete] [18] Lucien - Beyond Skyrim - Bruma Patch**
+   - Install it under the name **[NoDelete] [19] Lucien - Beyond Skyrim - Bruma Patch**
 
-19.) Download [Song of the Green (Auri Follower) - Enhanced Voice](https://www.nexusmods.com/skyrimspecialedition/mods/63787?tab=files&file_id=338903).
+20.) Download [Song of the Green (Auri Follower) - Enhanced Voice](https://www.nexusmods.com/skyrimspecialedition/mods/63787?tab=files&file_id=338903).
 
-   - Install it under the name **[NoDelete] [19] Song of the Green (Auri Follower) - Enhanced Voice**
+   - Install it under the name **[NoDelete] [20] Song of the Green (Auri Follower) - Enhanced Voice**
 
-20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286).
+21.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286).
 
-   - Install it under the name **[NoDelete] [20] Auri - Kaidan Banter Patch**
+   - Install it under the name **[NoDelete] [21] Auri - Kaidan Banter Patch**
 
-21.) Download [Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Auri%20-%20Kaidan%20Banter%20Patch%20-%20Kaidan%20Romance%20Progression%20Fix.7z) ("View raw" button).
+22.) Download [Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Auri%20-%20Kaidan%20Banter%20Patch%20-%20Kaidan%20Romance%20Progression%20Fix.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [21] Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix**
+   - Install it under the name **[NoDelete] [22] Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix**
 
-22.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the Kaidan & Inigo Banter Patch should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+23.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the Kaidan & Inigo Banter Patch should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [22] Kaidan 2 Extended Edition - Inigo Banter Patch** 
+   - Install it under the name **[NoDelete] [23] Kaidan 2 Extended Edition - Inigo Banter Patch** 
 
-23.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the Skyrim's Got Talent Patch should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+24.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the Skyrim's Got Talent Patch should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [23] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
+   - Install it under the name **[NoDelete] [24] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion.
+**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. There is a small conflict between RDO and Missing Dialogue Edit where you may see double recruitment options for NPCs with supported voice types.
 
-24.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171).
+25.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171).
 
-   - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - RDO**
    
-25.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
+26.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
 
-   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [26] Relationship Dialogue Overhaul - Update and MCM**
    
-26.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
+27.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
 
-   - Install it under the name **[NoDelete] [26] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [27] Relationship Dialogue Overhaul - UHDAP Patch**
 
-27.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
+28.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [27] RDO - Updated USSEP Subtitle Fixes**
-
-**WARNING** - Underwhelming Multiple Followers is more of an AI expansion rather than a dialogue expansion, but I have included it as an optional file for those who are interested in utilizing a multiple follower framework. It's a mod that **should not not be uninstalled mid-game**, so choose wisely if you want to install this portion.
+   - Install it under the name **[NoDelete] [28] RDO - Updated USSEP Subtitle Fixes**
    
- 28.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090).
+29.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419).
 
-   - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers**
-   
-29.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442) ONLY IF you did NOT download Relationship Dialogue Overhaul. If you DID download Relationship Dialogue Overhaul, skip this and download the file below instead.
+   - Install it under the name **[NoDelete] [29] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
-   - Install it under the name **[NoDelete] [29] Underwhelming Multiple Followers - USSEP Patch**
-   
-30.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419)  ONLY IF you DID download Relationship Dialogue Overhaul. If you DID NOT download Relationship Dialogue Overhaul, skip this and download the file above instead.
-
-   - Install it under the name **[NoDelete] [30] Underwhelming Multiple Followers - USSEP - RDO Patch**
-
-**IMPORTANT** - Move the all the plugins in this entire optional section directly ABOVE **bloodbond.esp**.
+**IMPORTANT** - Move the following plugins directly ABOVE **Missing Follower Dialogue Fix.esp**: Relationship Dialogue Overhaul.esp - RDO Updated.esp - RDO - Updated USSEP Subtitle Fixes.esp. Move the following plugin directly BELOW **LarsepanUMF-USSEP-Patch.esp**: LarsepanUMF-RDO-USSEP-Patch.esp.
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20v2.0.1.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [23] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch.
+Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [24] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
-   - If you downloaded **Underwhelming Multiple Followers**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20LarsepanUMF%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF Patch.
-   - If you downloaded **BOTH** Relationship Dialogue Overhaul and Underwhelming Multiple Followers, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20LarsepanUMF%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - LarsepanUMF - RDO Patch.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch%20v2.0.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
@@ -178,6 +170,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
    - Removed Carriages and Stables Dialogue Bundle - CFTO Patch as it was added into Septimus. 
    - Removed Forsworn and Thalmor Lines Expansion as it was added into Septimus.
    - Removed Septimus Extended - NPC Dialogue Addon - LarsepanUMF Patch as it was integrated into the megapatch.
+   - Removed Septimus Extended - NPC Dialogue Addon - LarsepanUMF - RDO Patch Patch as it was integrated into the RDO Patch.
    - Re-numbered everything from top down (SORRY!).
 
 1.0.1
