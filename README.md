@@ -156,6 +156,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 # Changelog
 
 2.0
+   - Updated megapatch to work with 4.2.0 of Septimus.
    - Added Missing Follower Dialogue Edit
    - Added Missing Follower Dialogue Edit - USSEP Patch
    - Added BUVARP SE RE
