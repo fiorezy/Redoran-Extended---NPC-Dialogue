@@ -119,7 +119,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
    
 25.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
 
-   - Install it under the name **[NoDelete] [26] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - Update and MCM**
    
 26.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
 
