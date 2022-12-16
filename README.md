@@ -14,86 +14,86 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## General Overhauls
 
-1.) Download [Missing Follower Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/56115?tab=files&file_id=331548).
+1.) Download [Missing Follower Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/56115?tab=files&file_id=331548&nmm=1).
 
    - Install it under the name **[NoDelete] [01] Missing Follower Dialogue Edit**
 
-2.) Download [Missing Follower Dialogue Edit - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/56115?tab=files&file_id=328980).
+2.) Download [Missing Follower Dialogue Edit - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/56115?tab=files&file_id=328980&nmm=1).
 
    - Install it under the name **[NoDelete] [02] Missing Follower Dialogue Edit - USSEP Patch**
 
-3.) Download [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120?tab=files&file_id=328985).
+3.) Download [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120?tab=files&file_id=328985&nmm=1).
 
    - Install it under the name **[NoDelete] [03] BUVARP SE RE**
 
-4.) Download [BUVARP SE RE - Anska Home Terrain Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67135?tab=files&file_id=298364).
+4.) Download [BUVARP SE RE - Anska Home Terrain Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67135?tab=files&file_id=298364&nmm=1).
 
    - Install it under the name **[NoDelete] [04] BUVARP SE RE - Anska Home Terrain Fix**
 
-5.) Download [BUVARP SE RE - Farmhouse Chimney Patch](https://www.nexusmods.com/skyrimspecialedition/mods/67135?tab=files&file_id=279787).
+5.) Download [BUVARP SE RE - Farmhouse Chimney Patch](https://www.nexusmods.com/skyrimspecialedition/mods/67135?tab=files&file_id=279787&nmm=1).
 
    - Install it under the name **[NoDelete] [05] BUVARP SE RE - Farmhouse Chimney Patch**
 
-6.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090).
+6.) Download [Underwhelming Multiple Followers](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=115090&nmm=1).
 
    - Install it under the name **[NoDelete] [06] Underwhelming Multiple Followers**
 
-7.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442).
+7.) Download [Underwhelming Multiple Followers - USSEP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=103442&nmm=1).
 
    - Install it under the name **[NoDelete] [07] Underwhelming Multiple Followers - USSEP Patch**
 
-8.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411).
+8.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411&nmm=1).
 
    - Install it under the name **[NoDelete] [08] Bloodbond - Contract with the Vampire**
    
-9.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941).
+9.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941&nmm=1).
 
    - Install it under the name **[NoDelete] [09] Bloodbond - Alternative Player Dialogue**
    
-10.) Download [Fare Thee Well - Spouses and Children Give Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/56366?tab=files&file_id=234888).
+10.) Download [Fare Thee Well - Spouses and Children Give Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/56366?tab=files&file_id=234888&nmm=1).
 
    - Install it under the name **[NoDelete] [10] Fare Thee Well - Spouses and Children Give Blessings**
 
-11.) Download [Denizens of Morthal - Dialogue and Character Expander](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130508).
+11.) Download [Denizens of Morthal - Dialogue and Character Expander](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130508&nmm=1).
 
    - Install it under the name **[NoDelete] [11] Denizens of Morthal - Dialogue and Character Expander**
    
-12.) Download [Denizens of Morthal - Dialogue and Character Expander - Ulfr the Blind Head Mesh and Texture](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=193055).
+12.) Download [Denizens of Morthal - Dialogue and Character Expander - Ulfr the Blind Head Mesh and Texture](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=193055&nmm=1).
 
    - Install it under the name **[NoDelete] [12] Denizens of Morthal - Dialogue and Character Expander - Fix**
    
-13.) Download [Denizens of Morthal - Dialogue and Character Expander - Finding Helgi Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130702).
+13.) Download [Denizens of Morthal - Dialogue and Character Expander - Finding Helgi Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33965?tab=files&file_id=130702&nmm=1).
 
    - Install it under the name **[NoDelete] [13] Denizens of Morthal - Finding Helgi Patch**
 
 ## Follower Specific Overhauls
 
-14.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246).
+14.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246&nmm=1).
 
    - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On**
 
-15.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+15.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
    - Install it under the name **[NoDelete] [15] Serana Dialogue Add-On - Patch Hub**
 
-16.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601).
+16.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601&nmm=1).
 
    - Install it under the name **[NoDelete] [16] Serana Dialogue Add-On - Pilgrim Patch**
 
-17.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835).
+17.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835&nmm=1).
 
    - Install it under the name **[NoDelete] [17] Teldryn Sero Dialogue Expansion**
    - **IMPORTANT** - It's recommended to make tweaks to Configurable Commentary Rate Slider's MCM menu in-game to however you deem fit, especially since this mod makes Teldryn pretty talkative (he has a lot of fun things to say, though!).
 
-18.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866).
+18.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866&nmm=1).
 
    - Install it under the name **[NoDelete] [18] A Serious Wedding - Teldryn Sero Marriage Mod**
 
-19.) Download [Song of the Green (Auri Follower) - Enhanced Voice](https://www.nexusmods.com/skyrimspecialedition/mods/63787?tab=files&file_id=338903).
+19.) Download [Song of the Green (Auri Follower) - Enhanced Voice](https://www.nexusmods.com/skyrimspecialedition/mods/63787?tab=files&file_id=338903&nmm=1).
 
    - Install it under the name **[NoDelete] [19] Song of the Green (Auri Follower) - Enhanced Voice**
 
-20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286).
+20.) Download [Auri - Song of the Green - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286&nmm=1).
 
    - Install it under the name **[NoDelete] [20] Auri - Kaidan Banter Patch**
 
@@ -113,15 +113,15 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. There is a small conflict between RDO and Missing Dialogue Edit where you may see double recruitment options for NPCs with supported voice types.
 
-24.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171).
+24.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
    - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - RDO**
    
-25.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381).
+25.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
    - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - Update and MCM**
    
-26.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719).
+26.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
    - Install it under the name **[NoDelete] [26] Relationship Dialogue Overhaul - UHDAP Patch**
 
@@ -129,7 +129,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [27] RDO - Updated USSEP Subtitle Fixes**
    
-28.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419).
+28.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419&nmm=1).
 
    - Install it under the name **[NoDelete] [28] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
