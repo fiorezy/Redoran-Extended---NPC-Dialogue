@@ -156,7 +156,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
    - NPC Dialogue Addon Megapatch
    - NPC Overhaul
    - NPC Overhaul Megapatch
-   - NPC Overhaul Megapatch - NPC Dialogue Addon Patch (linked directly above)
+   - NPC Overhaul Megapatch - NPC Dialogue Addon Patch
 
 # Changelog
 
