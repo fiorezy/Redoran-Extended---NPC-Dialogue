@@ -124,6 +124,14 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 # Last Steps
 
+Here's how it should look on the left side of MO2 (ignore RDO if you skipped that part):
+
+![Image 1](https://i.imgur.com/uhky9Us.png)
+
+Then here's how it should look on the right side of MO2 (ignore RDO if you skipped that part):
+
+![Image 2](https://i.imgur.com/rrfbEzf.png)
+
 ### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [20] Kaidan Extended Edition - I'm Glad You're Here Patch.
