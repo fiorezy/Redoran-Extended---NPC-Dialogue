@@ -124,6 +124,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 # Last Steps
 
+**My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
 Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
 
 ![Image 1](https://i.imgur.com/uhky9Us.png)
