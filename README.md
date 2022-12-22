@@ -133,11 +133,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ![Image 2](https://i.imgur.com/rrfbEzf.png)
 
-### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [20] Kaidan Extended Edition - I'm Glad You're Here Patch.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
