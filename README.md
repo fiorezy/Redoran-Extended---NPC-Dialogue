@@ -158,4 +158,4 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 **IMPORTANT** - If updating Septimus (like from v.4.2.1 to 4.3.0 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 3.0
-   - Reworked EVERYTHING, would recommend starting from the top to bottom. 
+   - Reworked EVERYTHING, would recommend starting from the top to bottom.
