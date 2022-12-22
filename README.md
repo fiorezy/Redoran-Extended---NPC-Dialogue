@@ -68,7 +68,17 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On - Pilgrim Patch**
 
-14.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.0" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+14.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. 
+
+![Image 0.1](https://i.imgur.com/VMvLBXs.png)
+
+It should be the same location as where you did your Wabbajack installation, like so:
+
+![Image 0.2](https://i.imgur.com/7I3mDfz.png)
+
+I have my installation on my F drive while my downloads folder is on my E drive, so yours may look a little different, but where ever you have your downloads folder connected via Wabbajack is the place to be. 
+
+Once you have it placed, refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.0" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
    - Install it under the name **[NoDelete] [14] Kaidan Extended Edition (Updated)** 
 
