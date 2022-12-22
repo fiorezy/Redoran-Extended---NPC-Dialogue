@@ -143,6 +143,8 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 
 ![Image 1](https://i.imgur.com/uhky9Us.png)
 
+**IMPORTANT** - [NoDelete] [11] Improved Follower Dialogue - Lydia - INIGO Patch was added after this screenshot was taken. The numbers from where Serana Dialogue Add-On Patch Hub is and beyond will be a tad different. Follow the directions via each number listed earlier rather than the exact picture posted above and you'll be golden!
+
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
 ![Image 2](https://i.imgur.com/rrfbEzf.png)
