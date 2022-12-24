@@ -153,7 +153,7 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 
 Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [21] Kaidan Extended Edition - I'm Glad You're Here Patch.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
