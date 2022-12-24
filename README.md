@@ -60,19 +60,23 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [11] Improved Follower Dialogue - Lydia - INIGO Patch**
 
-12.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246&nmm=1).
+12.) Download [Improved Follower Dialogue - Lydia - Lipsync Minor Fix](https://www.nexusmods.com/skyrimspecialedition/mods/81208?tab=files&file_id=342884&nmm=1).
 
-   - Install it under the name **[NoDelete] [12] Serana Dialogue Add-On**
+   - Install it under the name **[NoDelete] [12] Improved Follower Dialogue - Lydia - Lipsync Minor Fix**
 
-13.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+13.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246&nmm=1).
 
-   - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On - Patch Hub**
+   - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
 
-14.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601&nmm=1).
+14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
-   - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Pilgrim Patch**
+   - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Patch Hub**
 
-15.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. 
+15.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601&nmm=1).
+
+   - Install it under the name **[NoDelete] [15] Serana Dialogue Add-On - Pilgrim Patch**
+
+16.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. 
 
 ![Image 0.1](https://i.imgur.com/VMvLBXs.png)
 
@@ -84,55 +88,55 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
 Once you have it placed, refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.0" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [15] Kaidan Extended Edition (Updated)** 
+   - Install it under the name **[NoDelete] [16] Kaidan Extended Edition (Updated)** 
 
-16.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
+17.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [16] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
+   - Install it under the name **[NoDelete] [17] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
 
-17.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+18.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [17] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
+   - Install it under the name **[NoDelete] [18] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
 
-18.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+19.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [18] Kaidan 2 Extended Edition - Inigo Banter Patch** 
+   - Install it under the name **[NoDelete] [19] Kaidan 2 Extended Edition - Inigo Banter Patch** 
 
-19.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+20.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [19] Kaidan Extended Edition - LOTD Patch** 
+   - Install it under the name **[NoDelete] [20] Kaidan Extended Edition - LOTD Patch** 
 
-20.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+21.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [20] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
+   - Install it under the name **[NoDelete] [21] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
 
-21.) Download [Kaidan Extended Edition - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the top of the website, and the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Im-Glad-Youre-Here-Patch" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+22.) Download [Kaidan Extended Edition - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the top of the website, and the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "BWB-Kaidan-2-Im-Glad-Youre-Here-Patch" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [21] Kaidan Extended Edition - I'm Glad You're Here Patch** 
+   - Install it under the name **[NoDelete] [22] Kaidan Extended Edition - I'm Glad You're Here Patch** 
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. There is a small conflict between RDO and Missing Dialogue Edit where you may see double recruitment options for NPCs with supported voice types.
 
-22.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+23.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [22] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [23] Relationship Dialogue Overhaul - RDO**
    
-23.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+24.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
-   - Install it under the name **[NoDelete] [23] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - Update and MCM**
    
-24.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+25.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
-   - Install it under the name **[NoDelete] [24] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [25] Relationship Dialogue Overhaul - UHDAP Patch**
 
-25.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
+26.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [25] RDO - Updated USSEP Subtitle Fixes**
+   - Install it under the name **[NoDelete] [26] RDO - Updated USSEP Subtitle Fixes**
    
-26.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419&nmm=1).
+27.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419&nmm=1).
 
-   - Install it under the name **[NoDelete] [26] Underwhelming Multiple Followers - USSEP - RDO Patch**
+   - Install it under the name **[NoDelete] [27] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
 **IMPORTANT** - Move the following plugins directly ABOVE **LarsepanUMF.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp. Move the following plugin directly BELOW **LarsepanUMF-USSEP-Patch.esp**: LarsepanUMF-RDO-USSEP-Patch.esp.
 
@@ -143,7 +147,7 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 
 ![Image 1](https://i.imgur.com/uhky9Us.png)
 
-**IMPORTANT** - [NoDelete] [11] Improved Follower Dialogue - Lydia - INIGO Patch was added after this screenshot was taken. The numbers from where Serana Dialogue Add-On Patch Hub is and beyond will be a tad different. Follow the directions via each number listed earlier rather than the exact picture posted above and you'll be golden!
+**IMPORTANT** - [NoDelete] [11] Improved Follower Dialogue - Lydia - INIGO Patch and [NoDelete] [12] Improved Follower Dialogue - Lydia - Lipsync Minor Fix were added after this screenshot was taken. The numbers from where Serana Dialogue Add-On Patch Hub is and beyond will be a tad different. Follow the directions via each number listed earlier rather than the exact picture posted above and you'll be golden!
 
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
@@ -151,7 +155,7 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [21] Kaidan Extended Edition - I'm Glad You're Here Patch.
+Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [22] Kaidan Extended Edition - I'm Glad You're Here Patch.
 
    - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20RDO%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
@@ -165,6 +169,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
 
 3.0.1
    - Added Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
+   - Improved Follower Dialogue - Lydia - Lipsync Minor Fix
 
 3.0
    - Reworked EVERYTHING, would recommend starting from the top to bottom.
