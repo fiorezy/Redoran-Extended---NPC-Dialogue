@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hello! This addon will integration various mods designed to expand NPC dialogue into the world of Septimus-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
+Hello! This addon will integrate various mods designed to expand NPC dialogue into the world of Septimus-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
 
 A **NEW SAVE is required** due to the nature of the Kaidan updates from the version Septimus uses to the most recent version on the Kaidanmod website.
 
