@@ -68,7 +68,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
    - Install it under the name **[NoDelete] [13] Serana Dialogue Add-On**
 
-14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=340007&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+14.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=343954&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara, Race Compatibility, and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
    - Install it under the name **[NoDelete] [14] Serana Dialogue Add-On - Patch Hub**
 
@@ -171,6 +171,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it dire
    - Added Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
    - Added Improved Follower Dialogue - Lydia - Lipsync Minor Fix
    - Updated Kaidan Extended Edition
+   - Updated Serana Dialogue Add-On Patch Hub
 
 3.0
    - Reworked EVERYTHING, would recommend starting from the top to bottom.
