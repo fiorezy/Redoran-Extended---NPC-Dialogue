@@ -6,13 +6,13 @@
 
 Hello! This addon will integrate various mods designed to expand NPC dialogue into the world of Septimus-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
 
-A **NEW SAVE is required** due to the nature of the Kaidan updates from the version Septimus uses to the most recent version on the Kaidanmod website.
+A **NEW SAVE is required**.
 
 # Installation
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **below all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
 
 ## General Overhauls
 
