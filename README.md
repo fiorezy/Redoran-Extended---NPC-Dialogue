@@ -10,7 +10,7 @@ A **NEW SAVE is required** due to the nature of the Kaidan updates from the vers
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **below all of the Septimus patches**.
+All the plugins going forward will be at the very bottom, **below all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
 
 ## General Overhauls
 
@@ -60,57 +60,75 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
 ## New Followers
 
-21.) Download [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075?tab=files&file_id=111369&nmm=1).
+10.) Download [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075?tab=files&file_id=111369&nmm=1).
 
    - Install it under the name **[NoDelete] [10] Kaidan 2** 
 
-21.) Download [Kaidan 2 Shackles Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73301?tab=files&file_id=307709&nmm=1).
+11.) Download [Kaidan 2 Shackles Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73301?tab=files&file_id=307709&nmm=1).
 
    - Install it under the name **[NoDelete] [11] Kaidan 2 - Shackles Fix** 
 
-21.) Download [Kaidan 2 - Follow Distance Tweaks](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20-%20Follow%20Distance%20Tweaks.7z) ("View raw" button).
+12.) Download [Kaidan 2 - Follow Distance Tweaks](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20-%20Follow%20Distance%20Tweaks.7z) ("View raw" button).
 
    - Install it under the name **[NoDelete] [12] Kaidan 2 - Follow Distance Tweaks** 
 
-21.) Download [X]().
+13.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Once you have it placed in your downloads folder, you should see a file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.2" right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **X** 
+   - Install it under the name **[NoDelete] [13] Kaidan Extended Edition** 
 
-21.) Download [X]().
+14.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
 
-   - Install it under the name **X** 
+   - Install it under the name **[NoDelete] [14] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
 
-16.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Once you have it placed in your downloads folder, you should see a file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.2" right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+15.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [16] Kaidan Extended Edition** 
+   - Install it under the name **[NoDelete] [15] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
 
-17.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
+16.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [17] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
+   - Install it under the name **[NoDelete] [16] Kaidan Extended Edition - LOTD Patch** 
 
-18.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+17.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [18] Kaidan 2 Extended Edition - Skyrim's Got Talent Patch**
+   - Install it under the name **[NoDelete] [17] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
 
-20.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+18.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [20] Kaidan Extended Edition - LOTD Patch** 
+   - Install it under the name **[NoDelete] [18] Kaidan 2 Extended Edition - Inigo Banter Patch** 
 
-21.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+19.) Download [Song of the Green - Auri - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286&nmm=1).
 
-   - Install it under the name **[NoDelete] [21] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
+   - Install it under the name **[NoDelete] [19] Song of the Green - Auri - Kaidan Banter Patch** 
 
-19.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+20.) Download [Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Auri%20-%20Kaidan%20Banter%20Patch%20-%20Kaidan%20Romance%20Progression%20Fix.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [19] Kaidan 2 Extended Edition - Inigo Banter Patch** 
+   - Install it under the name **[NoDelete] [20] Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix** 
 
-21.) Download [Song of the Green - Auri - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286&nmm=1).
+21.) Download [Kaidan 2 - HD Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59736?tab=files&file_id=247598&nmm=1).
 
-   - Install it under the name **[NoDelete] [21] Song of the Green - Auri - Kaidan Banter Patch** 
+   - Install it under the name **[NoDelete] [21] Kaidan 2 - HD Armor Retexture** 
 
-21.) Download [Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix]() ("View raw" button).
+22.) Download [Kaidan's Armory](https://www.nexusmods.com/skyrimspecialedition/mods/76618?tab=files&file_id=321957&nmm=1). In the FOMOD, select Classic with Shine, then press Next. Select Tiger, then press Install.
 
-   - Install it under the name **[NoDelete] [22] Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix** 
+   - Install it under the name **[NoDelete] [22] Kaidan's Armory** 
+
+23.) Download [Kaidan's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/73821?tab=files&file_id=324249&nmm=1). In the FOMOD, select Glow with ENB, then press Next. Select red, then press Next. Select Sheath on back, then press Next. Make sure Extended Edition is ticked, then press Install.
+
+   - Install it under the name **[NoDelete] [23] Kaidan's Arsenal** 
+
+24.) Download [Pandorable's Kaidan replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files&file_id=194453&nmm=1) and [Kaidan 2 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=317355&nmm=1).
+
+   - Install the first mod under the name **[NoDelete] [24] Pandorable's Kaidan Replacer** 
+   - Install the second mod under the name **[NoDelete] [24] Kaidan 2 - Salt and Wind** 
+
+25.) Download [Pandorable's Kaidan Replacer - Septimus Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Pandorable's%20Kaidan%20Replacer%20-%20Septimus%20Patch.7z) ("View raw" button).
+
+   - Install it under the name **[NoDelete] [25] Pandorable's Kaidan Replacer - Septimus Patch** 
+
+26.) Download [Axarien's Kaidan NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/73373?tab=files&file_id=329808&nmm=1) and [Axarien's Kaidan NPCs - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=324053&nmm=1).
+
+   - Install the first mod under the name **[NoDelete] [26] Axarien's Kaidan NPCs** 
+   - Install the second mod under the name **[NoDelete] [26] Axarien's Kaidan NPCs - Salt and Wind** 
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
