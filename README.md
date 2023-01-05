@@ -1,5 +1,7 @@
 # Septimus-Extended---NPC Dialogue Addon
 
+![Image 0](https://i.imgur.com/onOXYv3.png)
+
 # Introduction
 
 Hello! This addon will integrate various mods designed to expand NPC dialogue into the world of Septimus-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
@@ -150,26 +152,24 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
    - Install it under the name **[NoDelete] [26] RDO - Updated USSEP Subtitle Fixes**
 
-**IMPORTANT** - Move the following plugins directly ABOVE **X**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
+**IMPORTANT** - Move the following plugins directly ABOVE **bloodbond.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
 
 # Last Steps
 
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
 
-![Image 1](https://i.imgur.com/uhky9Us.png)
-
-**IMPORTANT** - [NoDelete] [11] Improved Follower Dialogue - Lydia - INIGO Patch and [NoDelete] [12] Improved Follower Dialogue - Lydia - Lipsync Minor Fix were added after this screenshot was taken. The numbers from where Serana Dialogue Add-On Patch Hub is and beyond will be a tad different. Follow the directions via each number listed earlier rather than the exact picture posted above and you'll be golden!
+![Image 1](https://i.imgur.com/iZZJo60.png)
 
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/rrfbEzf.png)
+![Image 2](https://i.imgur.com/qKEkGdi.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [22] Kaidan Extended Edition - I'm Glad You're Here Patch.
+Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [26] Axarien's Kaidan NPCs - Salt and Wind.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch and place is AFTER the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
