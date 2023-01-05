@@ -177,16 +177,16 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
 ![Image 2](https://i.imgur.com/TKZ9CO5.png)
 
-### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Dialogue Addon**, and place it directly AFTER [NoDelete] [29] Axarien's Kaidan NPCs - Salt and Wind.
+Name it **[NoDelete] Septimus Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [29] Axarien's Kaidan NPCs - Salt and Wind.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD]() ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Addon - RDO Patch and place is AFTER the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20RDO%20Integration%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Megapatch - RDO Integration Patch and place is AFTER RDO and the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 1.0.2 of Septimus.**
-   - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).
+   - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
 
 # Changelog
 
