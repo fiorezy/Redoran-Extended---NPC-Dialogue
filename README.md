@@ -171,11 +171,11 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
 
-![Image 1]()
+![Image 1](https://i.imgur.com/pt0SRoJ.png)
 
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
-![Image 2]()
+![Image 2](https://i.imgur.com/TKZ9CO5.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
 
