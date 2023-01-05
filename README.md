@@ -188,7 +188,7 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Megapatch**, and place it 
    - **Currently in the process of testing with version 1.0.2 of Septimus.**
    - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
 
-# Changelog
+# Changelog 
 
 **IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
