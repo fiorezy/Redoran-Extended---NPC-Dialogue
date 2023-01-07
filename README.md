@@ -211,11 +211,11 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Megapatch**, and place it 
    - Added Guard Dialogue Overhaul MCM
    - Added Guard Dialogue Overhaul - UHDAP Patch
    - Updated Septimus Extended - NPC Dialogue Megapatch
-   - **Save game save update.**
+   - **Save game safe update.**
 
 4.0.1
    - Updated Septimus Extended - NPC Dialogue Megapatch - RDO Integration Patch 
-   - **Save game save update.**
+   - **Save game safe update.**
 
 4.0
    - Rebuilt from the ground up.
