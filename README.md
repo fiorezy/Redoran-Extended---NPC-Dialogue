@@ -193,7 +193,7 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [29] Axarien's Kaidan NPCs - Salt and Wind.
+Name it **[NoDelete] Septimus Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [32] Guard Dialogue Overhaul - UHDAP Patch.
 
    - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20RDO%20Integration%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] Septimus Extended - NPC Dialogue Megapatch - RDO Integration Patch and place is AFTER RDO and the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
