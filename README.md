@@ -144,25 +144,39 @@ I have my installation on my F drive while my downloads folder is on my E drive,
    - Install the first mod under the name **[NoDelete] [29] Axarien's Kaidan NPCs** 
    - Install the second mod under the name **[NoDelete] [29] Axarien's Kaidan NPCs - Salt and Wind** 
 
+## Guard Dialogue Overhaul
+
+30.) Download [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=249890&nmm=1).
+
+   - Install it under the name **[NoDelete] [30] Guard Dialogue Overhaul** 
+
+31.) Download [Guard Dialogue Overhaul MCM](https://www.nexusmods.com/skyrimspecialedition/mods/50853?tab=files&file_id=212354&nmm=1).
+
+   - Install it under the name **[NoDelete] [31] Guard Dialogue Overhaul MCM** 
+
+32.) Download [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366?tab=files&file_id=141692&nmm=1).
+
+   - Install it under the name **[NoDelete] [32] Guard Dialogue Overhaul - UHDAP Patch** 
+
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. There is a small conflict between RDO and Missing Dialogue Edit where you may see double recruitment options for NPCs with supported voice types.
+**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
-30.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+33.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [30] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [33] Relationship Dialogue Overhaul - RDO**
    
-31.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+34.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
-   - Install it under the name **[NoDelete] [31] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [34] Relationship Dialogue Overhaul - Update and MCM**
    
-32.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+35.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
-   - Install it under the name **[NoDelete] [32] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [35] Relationship Dialogue Overhaul - UHDAP Patch**
 
-33.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
+36.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [33] RDO - Updated USSEP Subtitle Fixes**
+   - Install it under the name **[NoDelete] [36] RDO - Updated USSEP Subtitle Fixes**
 
 **IMPORTANT** - Move the following plugins directly ABOVE **bloodbond.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
 
@@ -192,8 +206,16 @@ Name it **[NoDelete] Septimus Extended - NPC Dialogue Megapatch**, and place it 
 
 **IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
+4.0.2
+   - Added Guard Dialogue Overhaul SE
+   - Added Guard Dialogue Overhaul MCM
+   - Added Guard Dialogue Overhaul - UHDAP Patch
+   - Updated Septimus Extended - NPC Dialogue Megapatch
+   - **Save game save update.**
+
 4.0.1
    - Updated Septimus Extended - NPC Dialogue Megapatch - RDO Integration Patch 
+   - **Save game save update.**
 
 4.0
    - Rebuilt from the ground up.
