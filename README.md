@@ -185,11 +185,11 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
 
-![Image 1](https://i.imgur.com/pt0SRoJ.png)
+![Image 1](https://i.imgur.com/taZpfvf.png)
 
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/TKZ9CO5.png)
+![Image 2](https://i.imgur.com/sGtdMIE.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
