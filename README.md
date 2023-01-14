@@ -150,7 +150,7 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
    - Install it under the name **[NoDelete] [30b] Guard Dialogue Overhaul** 
 
-31.) Download [Guard Dialogue Overhaul MCM](https://www.nexusmods.com/skyrimspecialedition/mods/50853?tab=files&file_id=212354&nmm=1).
+31.) Download [Guard Dialogue Overhaul MCM](https://www.nexusmods.com/skyrimspecialedition/mods/50853?tab=files&file_id=212354&nmm=1). In the FOMOD, select Only the MCM option, then press Install.
 
    - Install it under the name **[NoDelete] [31b] Guard Dialogue Overhaul MCM** 
 
