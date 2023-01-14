@@ -203,6 +203,7 @@ Name it **[NoDelete] [37b] Septimus Extended - NPC Dialogue Megapatch**, and pla
    - **Currently in the process of testing with version 1.0.8+ of Septimus.**
    - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Septimus-Extended - Textures Addon](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/README.md).**
+   - **Currently works with [Septimus-Extended - 3DNPC Addon](https://github.com/Foamimi/Septimus---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog 
 
