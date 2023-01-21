@@ -40,6 +40,14 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-On - Pilgrim Patch**
 
+34.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](X).
+
+   - Install it under the name **[NoDelete] [002.34] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
+
+34.) Download [Authentic Sinding Follower SE](X).
+
+   - Install it under the name **[NoDelete] [002.34] Authentic Sinding Follower SE**
+
 34.) Download [Improved Follower Dialogue - Lydia](X).
 
    - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia**
@@ -182,6 +190,8 @@ Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and p
 
 5.0.0
    - WIP.
+   - Added Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)
+   - Added Authentic Sinding Follower SE
    - Added Improved Follower Dialogue - Lydia
    - Added Improved Follower Dialogue - Lydia - Lipsync Minor Fix
    - Added Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
