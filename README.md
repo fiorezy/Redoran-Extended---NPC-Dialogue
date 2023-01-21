@@ -126,6 +126,10 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [002.34] Inigo Player Marriage Commentary Patch for M'rissi**
 
+34.) Download [Race Compatibility Dialogue for M'rissi's Tails of Trouble](X).
+
+   - Install it under the name **[NoDelete] [002.34] Race Compatibility Dialogue for M'rissi's Tails of Trouble**
+
 34.) Download [M'rissi Renewed](X) and [M'rissi Renewed - Salt and Wind](X).
 
    - Install the first mod under the name **[NoDelete] [002.34] M'rissi Renewed**
@@ -212,6 +216,7 @@ Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and p
    - Added M'rissi's Quest Tweaks (ESL)
    - Added M'rissi Tails of Troubles Vampirism Fix (ESL)
    - Added Inigo Player Marriage Commentary Patch for M'rissi
+   - Added Race Compatibility Dialogue for M'rissi's Tails of Trouble
    - Added M'rissi Renewed
    - Added M'rissi Renewed - Salt and Wind
    - Removed Teldryn Sero Dialogue Expansion
