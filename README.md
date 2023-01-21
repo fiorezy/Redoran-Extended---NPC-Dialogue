@@ -165,11 +165,11 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
    - **NOTE** - I took these pictures before I added "002.XX" to the end of each name.
 
-![Image 1](https://i.imgur.com/taZpfvf.png)
+![Image 1](X)
 
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/sGtdMIE.png)
+![Image 2](X)
 
 ### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
 
