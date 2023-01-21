@@ -194,6 +194,7 @@ Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and p
 
 5.0.0
    - WIP.
+   - Added Serana Dialogue Add-on - Simonrim Patches
    - Added Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)
    - Added Authentic Sinding Follower SE
    - Added Improved Follower Dialogue - Lydia
