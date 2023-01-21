@@ -44,6 +44,10 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-on - Simonrim Patches**
 
+6.) Download [Race Compatibility Dialogue for Serana Dialogue Addon (SDA)](X).
+
+   - Install it under the name **[NoDelete] [002.06] Race Compatibility Dialogue for Serana Dialogue Addon (SDA)**
+
 34.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](X).
 
    - Install it under the name **[NoDelete] [002.34] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
@@ -195,6 +199,7 @@ Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and p
 5.0.0
    - WIP.
    - Added Serana Dialogue Add-on - Simonrim Patches
+   - Added Race Compatibility Dialogue for Serana Dialogue Addon (SDA)
    - Added Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)
    - Added Authentic Sinding Follower SE
    - Added Improved Follower Dialogue - Lydia
