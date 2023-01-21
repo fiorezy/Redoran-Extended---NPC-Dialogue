@@ -40,6 +40,10 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-On - Pilgrim Patch**
 
+6.) Download [Serana Dialogue Add-on - Simonrim Patches](X).
+
+   - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-on - Simonrim Patches**
+
 34.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](X).
 
    - Install it under the name **[NoDelete] [002.34] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
