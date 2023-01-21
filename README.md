@@ -1,18 +1,18 @@
-# Septimus-Extended---NPC Dialogue Addon
+# Redoran-Extended---NPC Dialogue Addon
 
 ![Image 0](https://i.imgur.com/onOXYv3.png)
 
 # Introduction
 
-Hello! This addon will integrate various mods designed to expand NPC dialogue into the world of Septimus-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
+Hello! This addon will integrate various mods designed to expand NPC dialogue into the world of Redoran-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
 
 A **NEW SAVE is required**.
 
 # Installation
 
-First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [002.00] SEPTIMUS EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
+First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [002.00] REDORAN EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE DynDOLOD.esp**.
 
 ## General Overhauls
 
@@ -40,51 +40,23 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Sep
 
    - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-On - Pilgrim Patch**
 
-7.) Download [Teldryn Sero Dialogue Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/42434?tab=files&file_id=216835&nmm=1).
+34.) Download [Improved Follower Dialogue - Lydia](X).
 
-   - Install it under the name **[NoDelete] [002.07] Teldryn Sero Dialogue Expansion**
+   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia**
 
-8.) Download [Teldryn Sero Dialogue Expansion - Lover Request Fix](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Teldryn%20Sero%20Dialogue%20Expansion%20-%20Lover%20Request%20Fix.7z) ("View raw" button). Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. 
+34.) Download [mproved Follower Dialogue - Lydia - Lipsync Minor Fix](X).
 
-![Image 0.1](https://i.imgur.com/VMvLBXs.png)
+   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia - Lipsync Minor Fix**
 
-It should be the same location as where you did your Wabbajack installation, like so:
+34.) Download [Improved Follower Dialogue - Lydia - INIGO (Minor Patch)](X).
 
-![Image 0.2](https://i.imgur.com/7I3mDfz.png)
+   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia - INIGO (Minor Patch)**
 
-I have my installation on my F drive while my downloads folder is on my E drive, so yours may look a little different, but where ever you have your downloads folder connected via Wabbajack is the place to be. Once you have it placed in your downloads folder, refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Teldryn Sero Dialogue Expansion - Lover Request Fix" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+34.) Download [Improved Follower Dialogue - Lydia and Lucien (Minor Patch)](X).
 
-   - Install it under the name **[NoDelete] [002.08] Teldryn Sero Dialogue Expansion - Lover Request Fix**
+   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia and Lucien (Minor Patch)**
 
-9.) Download [A Serious Wedding - Teldryn Sero Marriage Mod SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10238?tab=files&file_id=40866&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.09] A Serious Wedding - Teldryn Sero Marriage Mod**
-
-## New Followers
-
-10.) Download [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075?tab=files&file_id=111369&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.10] Kaidan 2** 
-
-11.) Download [Kaidan 2 Shackles Fix](https://www.nexusmods.com/skyrimspecialedition/mods/73301?tab=files&file_id=307709&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.11] Kaidan 2 - Shackles Fix** 
-
-12.) Download [Kaidan 2 - Follow Distance Tweaks](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20-%20Follow%20Distance%20Tweaks.7z) ("View raw" button).
-
-   - Install it under the name **[NoDelete] [002.12] Kaidan 2 - Follow Distance Tweaks** 
-
-13.) Download [Kaidan 2 - Autumnwatch Lodge and Dwarven Mail CC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64822?tab=files&file_id=272104&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.13] Kaidan 2 - Autumnwatch Lodge and Dwarven Mail CC Patch** 
-
-14.) Download [Blackthorn - Kaidan 2 Patch](https://www.nexusmods.com/skyrimspecialedition/mods/66965?tab=files&file_id=282832&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.14] Blackthorn - Kaidan 2 Patch** 
-
-15.) Download [Immersive Kaidan Start](https://www.nexusmods.com/skyrimspecialedition/mods/64064?tab=files&file_id=278349&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.15] Immersive Kaidan Start** 
+## Custom Followers
 
 16.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Once you have it placed in your downloads folder, you should see a file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.2" right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
@@ -110,39 +82,38 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
    - Install it under the name **[NoDelete] [002.21] Kaidan Extended Edition - Inigo Banter Patch** 
 
-22.) Download [Song of the Green - Auri - Kaidan Banter Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files&file_id=274286&nmm=1).
+34.) Download [M'rissi's Tails of Troubles SE](X).
 
-   - Install it under the name **[NoDelete] [002.22] Song of the Green - Auri - Kaidan Banter Patch** 
+   - Install it under the name **[NoDelete] [002.34] M'rissi's Tails of Troubles SE**
 
-23.) Download [Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Auri%20-%20Kaidan%20Banter%20Patch%20-%20Kaidan%20Romance%20Progression%20Fix.7z) ("View raw" button).
+34.) Download [M'rissi's Tails of Troubles SE - Delayed Start](X).
 
-   - Install it under the name **[NoDelete] [002.23] Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix** 
+   - Install it under the name **[NoDelete] [002.34] M'rissi's Tails of Troubles SE - Delayed Start**
 
-24.) Download [Kaidan 2 - HD Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59736?tab=files&file_id=247598&nmm=1).
+34.) Download [M'rissi is more aware (ESL)](X).
 
-   - Install it under the name **[NoDelete] [002.24] Kaidan 2 - HD Armor Retexture** 
+   - Install it under the name **[NoDelete] [002.34] M'rissi is more aware (ESL)**
 
-25.) Download [Kaidan's Armory](https://www.nexusmods.com/skyrimspecialedition/mods/76618?tab=files&file_id=321957&nmm=1). In the FOMOD, select Classic with Shine, then press Next. Select Tiger, then press Install.
+34.) Download [M'rissi's Quest Tweaks (ESL)](X).
 
-   - Install it under the name **[NoDelete] [002.25] Kaidan's Armory** 
+   - Install it under the name **[NoDelete] [002.34] M'rissi's Quest Tweaks (ESL)**
 
-26.) Download [Kaidan's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/73821?tab=files&file_id=324249&nmm=1). In the FOMOD, select Glow with ENB, then press Next. Select red, then press Next. Select Sheath on back, then press Next. Make sure Extended Edition is ticked, then press Install.
+34.) Download [M'rissi's Combat Prowess (ESL)](X).
 
-   - Install it under the name **[NoDelete] [002.26] Kaidan's Arsenal** 
+   - Install it under the name **[NoDelete] [002.34] M'rissi's Combat Prowess (ESL)**
 
-27.) Download [Pandorable's Kaidan replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files&file_id=194453&nmm=1) and [Kaidan 2 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=317355&nmm=1).
+34.) Download [M'rissi Tails of Troubles Vampirism Fix (ESL)](X).
 
-   - Install the first mod under the name **[NoDelete] [002.27] Pandorable's Kaidan Replacer** 
-   - Install the second mod under the name **[NoDelete] [002.27] Pandorable's Kaidan Replacer - Salt and Wind** 
+   - Install it under the name **[NoDelete] [002.34] M'rissi Tails of Troubles Vampirism Fix (ESL)**
 
-28.) Download [Pandorable's Kaidan Replacer - Septimus Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Pandorable's%20Kaidan%20Replacer%20-%20Septimus%20Patch.7z) ("View raw" button).
+34.) Download [Inigo Player Marriage Commentary Patch for M'rissi](X).
 
-   - Install it under the name **[NoDelete] [002.28] Pandorable's Kaidan Replacer - Septimus Patch** 
+   - Install it under the name **[NoDelete] [002.34] Inigo Player Marriage Commentary Patch for M'rissi**
 
-29.) Download [Axarien's Kaidan NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/73373?tab=files&file_id=329808&nmm=1) and [Axarien's Kaidan NPCs - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=324053&nmm=1).
+34.) Download [M'rissi Renewed](X) and [M'rissi Renewed - Salt and Wind](X).
 
-   - Install the first mod under the name **[NoDelete] [002.29] Axarien's Kaidan NPCs** 
-   - Install the second mod under the name **[NoDelete] [002.29] Axarien's Kaidan NPCs - Salt and Wind** 
+   - Install the first mod under the name **[NoDelete] [002.34] M'rissi Renewed**
+   - Install the second mod under the name **[NoDelete] [002.34] M'rissi Renewed - Salt and Wind**
 
 ## Guard Dialogue Overhaul
 
@@ -192,22 +163,56 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 
 ![Image 2](https://i.imgur.com/sGtdMIE.png)
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [002.37] Septimus Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [002.32] Guard Dialogue Overhaul - UHDAP Patch.
+Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [002.32] Guard Dialogue Overhaul - UHDAP Patch.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20RDO%20Integration%20Patch.7z) ] ("View raw" button)**. Name it [NoDelete] [002.38] Septimus Extended - NPC Dialogue Megapatch - RDO Integration Patch and place is AFTER RDO and the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](X) ] ("View raw" button)**. Name it [NoDelete] [002.38] RedoranSeptimus Extended - NPC Dialogue Megapatch - RDO Integration Patch and place is AFTER RDO and the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 1.0.8+ of Septimus.**
-   - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
-   - **Currently works with [Septimus-Extended - Textures Addon](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/README.md).**
-   - **Currently works with [Septimus-Extended - 3DNPC Addon](https://github.com/Foamimi/Septimus---3DNPC-Addon/blob/main/README.md).**
+   - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
+   - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
+   - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog 
 
-**IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+**IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+5.0.0
+   - WIP.
+   - Added Improved Follower Dialogue - Lydia
+   - Added Improved Follower Dialogue - Lydia - Lipsync Minor Fix
+   - Added Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
+   - Added Improved Follower Dialogue - Lydia and Lucien (Minor Patch)
+   - Added M'rissi's Tails of Troubles SE
+   - Added M'rissi's Tails of Troubles SE - Delayed Start
+   - Added M'rissi is more aware (ESL)
+   - Added M'rissi's Quest Tweaks (ESL)
+   - Added M'rissi Tails of Troubles Vampirism Fix (ESL)
+   - Added Inigo Player Marriage Commentary Patch for M'rissi
+   - Added M'rissi Renewed
+   - Added M'rissi Renewed - Salt and Wind
+   - Removed Teldryn Sero Dialogue Expansion
+   - Removed Teldryn Sero Dialogue Expansion - Lover Request Fix
+   - Removed A Serious Wedding - Teldryn Sero Marriage Mod SSE
+   - Removed Kaidan 2
+   - Removed Kaidan 2 Shackles Fix
+   - Removed Kaidan 2 - Follow Distance Tweaks
+   - Removed Kaidan 2 - Autumnwatch Lodge and Dwarven Mail CC Patch
+   - Removed Blackthorn - Kaidan 2 Patch
+   - Removed Immersive Kaidan Start
+   - Removed Song of the Green - Auri - Kaidan Banter Patch
+   - Removed Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix
+   - Removed Kaidan 2 - HD Armor Retexture
+   - Removed Kaidan's Armory
+   - Removed Kaidan's Arsenal
+   - Removed Pandorable's Kaidan replacer
+   - Removed Kaidan 2 - Salt and Wind
+   - Removed Pandorable's Kaidan Replacer - Septimus Patch
+   - Removed Axarien's Kaidan NPCs (moved to NPC Overhaul Addon)
+   - Removed Axarien's Kaidan NPCs - Salt and Wind (moved to NPC Overhaul Addon)
 
 4.0.3
    - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
