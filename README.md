@@ -194,7 +194,7 @@ Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and p
    - **Currently in the process of testing with version 1.0.8+ of Septimus.**
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
-   - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran---3DNPC-Addon/blob/main/README.md).**
+   - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog 
 
