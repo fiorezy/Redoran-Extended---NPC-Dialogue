@@ -219,6 +219,10 @@ Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and p
    - Added Race Compatibility Dialogue for M'rissi's Tails of Trouble
    - Added M'rissi Renewed
    - Added M'rissi Renewed - Salt and Wind
+   - Added Misc Dialogue Edits
+   - Added More Dialogue Options
+   - Added Hunters Not Bandits
+   - Added Thugs Not Assassins
    - Removed Teldryn Sero Dialogue Expansion
    - Removed Teldryn Sero Dialogue Expansion - Lover Request Fix
    - Removed A Serious Wedding - Teldryn Sero Marriage Mod SSE
