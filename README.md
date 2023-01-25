@@ -108,7 +108,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 ## Custom Followers
 
-23.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Once you have it placed in your downloads folder where your Redoran downloads are located, you should see a file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.2" right at the top of MO2 on the right side. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+23.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation.
 
    - Install it under the name **[NoDelete] [002.23] Kaidan Extended Edition** 
 
@@ -116,23 +116,23 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [002.24] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
 
-25.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+25.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1".
 
    - Install it under the name **[NoDelete] [002.25] Kaidan Extended Edition - Skyrim's Got Talent Patch**
 
-26.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+26.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0".
 
    - Install it under the name **[NoDelete] [002.26] Kaidan Extended Edition - LOTD Patch** 
 
-27.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+27.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0".
 
    - Install it under the name **[NoDelete] [002.27] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
 
-28.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+28.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3".
 
    - Install it under the name **[NoDelete] [002.28] Kaidan Extended Edition - Inigo Banter Patch** 
 
-29.) Download [Kaidan - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). A little ways down from the top of the website, the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Im-Glad-Youre-Here-Patch" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+29.) Download [Kaidan - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). A little ways down from the top of the website, the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0".
 
    - Install it under the name **[NoDelete] [002.29] Kaidan - I'm Glad You're Here Patch** 
 
@@ -197,7 +197,6 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 # Last Steps
 
-**My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
 
 ![Image 1](X)
