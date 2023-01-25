@@ -224,7 +224,6 @@ Name it **[NoDelete] [002.43] Redoran Extended - NPC Dialogue Megapatch**, and p
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 5.0.0
-   - WIP.
    - Added Serana Dialogue Add-on - Simonrim Patches
    - Added Race Compatibility Dialogue for Serana Dialogue Addon (SDA)
    - Added Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)
@@ -265,21 +264,3 @@ Name it **[NoDelete] [002.43] Redoran Extended - NPC Dialogue Megapatch**, and p
    - Removed Pandorable's Kaidan Replacer - Septimus Patch
    - Removed Axarien's Kaidan NPCs (moved to NPC Overhaul Addon)
    - Removed Axarien's Kaidan NPCs - Salt and Wind (moved to NPC Overhaul Addon)
-
-4.0.3
-   - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
-
-4.0.2
-   - Added Guard Dialogue Overhaul SE
-   - Added Guard Dialogue Overhaul MCM
-   - Added Guard Dialogue Overhaul - UHDAP Patch
-   - Updated Septimus Extended - NPC Dialogue Megapatch
-   - Renamed everything to have "b" at the end of each number. If you have installed mutliple addons, this will help sort them better for when the guide updates.
-   - **Save game safe update.**
-
-4.0.1
-   - Updated Septimus Extended - NPC Dialogue Megapatch - RDO Integration Patch 
-   - **Save game safe update.**
-
-4.0
-   - Rebuilt from the ground up.
