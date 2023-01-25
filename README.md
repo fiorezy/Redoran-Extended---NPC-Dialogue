@@ -16,49 +16,83 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 ## General Overhauls
 
-1.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411&nmm=1). In the FOMOD, select Vanilla, then press Next, then press Install.
+1.) Download [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=249890&nmm=1).
 
-   - Install it under the name **[NoDelete] [002.01] Bloodbond - Contract with the Vampire**
+   - Install it under the name **[NoDelete] [002.01] Guard Dialogue Overhaul** 
+
+2.) Download [Guard Dialogue Overhaul MCM](https://www.nexusmods.com/skyrimspecialedition/mods/50853?tab=files&file_id=212354&nmm=1). In the FOMOD, select Only the MCM option, then press Install.
+
+   - Install it under the name **[NoDelete] [002.02] Guard Dialogue Overhaul MCM** 
+
+3.) Download [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366?tab=files&file_id=141692&nmm=1).
+
+   - Install it under the name **[NoDelete] [002.03] Guard Dialogue Overhaul - UHDAP Patch** 
+
+4.) Download [Misc Dialogue Edits](X).
+
+   - Install it under the name **[NoDelete] [002.04] Misc Dialogue Edits** 
+
+5.) Download [More Dialogue Options](X).
+
+   - Install it under the name **[NoDelete] [002.05] More Dialogue Options** 
+
+6.) Download [Hunters Not Bandits](X).
+
+   - Install it under the name **[NoDelete] [002.06] Hunters Not Bandits** 
+
+7.) Download [Thugs Not Assassins](X).
+
+   - Install it under the name **[NoDelete] [002.07] Thugs Not Assassins** 
+
+8.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411&nmm=1). In the FOMOD, select Vanilla, then press Next, then press Install.
+
+   - Install it under the name **[NoDelete] [002.08] Bloodbond - Contract with the Vampire**
    
-2.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941&nmm=1).
+9.) Download [Bloodbond - Alternative Player Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/79041?tab=files&file_id=332941&nmm=1).
 
-   - Install it under the name **[NoDelete] [002.02] Bloodbond - Alternative Player Dialogue**
+   - Install it under the name **[NoDelete] [002.09] Bloodbond - Alternative Player Dialogue**
 
-3.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246&nmm=1).
+## NPC Specific Overhauls
 
-   - Install it under the name **[NoDelete] [002.03] Serana Dialogue Add-On**
+10.) Download [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files&file_id=340246&nmm=1).
 
-4.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=343954&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
+   - Install it under the name **[NoDelete] [002.10] Serana Dialogue Add-On**
 
-   - Install it under the name **[NoDelete] [002.04] Serana Dialogue Add-On Patch Hub**
+11.) Download [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=343954&nmm=1). In the FOMOD, press Next, Next, Next, then tick the following patches: NPCs Wear Amulets of Mara and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install.
 
-5.) Download [Serana Dialogue Add-On Patch Hub - SDE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=296431&nmm=1). In the FOMOD, press Next, Next, Next, then tick ONLY the Serana Dialogue Edit patch. Then press Next, Next, then press Install.
+   - Install it under the name **[NoDelete] [002.11] Serana Dialogue Add-On Patch Hub**
 
-   - Install it under the name **[NoDelete] [002.05] Serana Dialogue Add-On Patch Hub - SDE**
+12.) Download [Serana Dialogue Add-On Patch Hub - SDE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70782?tab=files&file_id=296431&nmm=1). In the FOMOD, press Next, Next, Next, then tick ONLY the Serana Dialogue Edit patch. Then press Next, Next, then press Install.
 
-6.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73135?tab=files&file_id=306601&nmm=1).
+   - Install it under the name **[NoDelete] [002.12] Serana Dialogue Add-On Patch Hub - SDE**
 
-   - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-On - Pilgrim Patch**
+13.) Download [Serana Dialogue Add-on - Mysticism Patch](X).
 
-6.) Download [Serana Dialogue Add-on - Simonrim Patches](X).
+   - Install it under the name **[NoDelete] [002.13] SDA - Mysticism Patch**
 
-   - Install it under the name **[NoDelete] [002.06] Serana Dialogue Add-on - Simonrim Patches**
+14.) Download [Serana Dialogue Add-On - Pilgrim Patch](X).
 
-6.) Download [Race Compatibility Dialogue for Serana Dialogue Addon (SDA)](X).
+   - Install it under the name **[NoDelete] [002.14] SDA - Pilgrim Patch**
 
-   - Install it under the name **[NoDelete] [002.06] Race Compatibility Dialogue for Serana Dialogue Addon (SDA)**
+15.) Download [Race Compatibility Dialogue for Serana Dialogue Addon (SDA)](X).
 
-34.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](X).
+   - Install it under the name **[NoDelete] [002.15] Race Compatibility Dialogue for Serana Dialogue Addon (SDA)**
 
-   - Install it under the name **[NoDelete] [002.34] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
+16.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](X).
 
-34.) Download [Authentic Sinding Follower SE](X).
+   - Install it under the name **[NoDelete] [002.16] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
 
-   - Install it under the name **[NoDelete] [002.34] Authentic Sinding Follower SE**
+17.) Download [Authentic Sinding Follower SE](X).
 
-34.) Download [Improved Follower Dialogue - Lydia](X).
+   - Install it under the name **[NoDelete] [002.17] Authentic Sinding Follower**
 
-   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia**
+18.) Download [Authentic Sinding Follower - Redoran Patch](X) ("View raw" button).
+
+   - Install it under the name **[NoDelete] [002.18] Authentic Sinding Follower - Redoran Patch**
+
+19.) Download [Improved Follower Dialogue - Lydia](X).
+
+   - Install it under the name **[NoDelete] [002.19] Improved Follower Dialogue - Lydia**
 
 34.) Download [mproved Follower Dialogue - Lydia - Lipsync Minor Fix](X).
 
@@ -134,20 +168,6 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install the first mod under the name **[NoDelete] [002.34] M'rissi Renewed**
    - Install the second mod under the name **[NoDelete] [002.34] M'rissi Renewed - Salt and Wind**
-
-## Guard Dialogue Overhaul
-
-30.) Download [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=249890&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.30] Guard Dialogue Overhaul** 
-
-31.) Download [Guard Dialogue Overhaul MCM](https://www.nexusmods.com/skyrimspecialedition/mods/50853?tab=files&file_id=212354&nmm=1). In the FOMOD, select Only the MCM option, then press Install.
-
-   - Install it under the name **[NoDelete] [002.31] Guard Dialogue Overhaul MCM** 
-
-32.) Download [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366?tab=files&file_id=141692&nmm=1).
-
-   - Install it under the name **[NoDelete] [002.32] Guard Dialogue Overhaul - UHDAP Patch** 
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
