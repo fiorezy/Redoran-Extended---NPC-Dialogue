@@ -94,108 +94,111 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [002.19] Improved Follower Dialogue - Lydia**
 
-34.) Download [mproved Follower Dialogue - Lydia - Lipsync Minor Fix](X).
+20.) Download [mproved Follower Dialogue - Lydia - Lipsync Minor Fix](X).
 
-   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia - Lipsync Minor Fix**
+   - Install it under the name **[NoDelete] [002.20] Improved Follower Dialogue - Lydia - Lipsync Minor Fix**
 
-34.) Download [Improved Follower Dialogue - Lydia - INIGO (Minor Patch)](X).
+21.) Download [Improved Follower Dialogue - Lydia - INIGO (Minor Patch)](X).
 
-   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia - INIGO (Minor Patch)**
+   - Install it under the name **[NoDelete] [002.21] Improved Follower Dialogue - Lydia - INIGO (Minor Patch)**
 
-34.) Download [Improved Follower Dialogue - Lydia and Lucien (Minor Patch)](X).
+22.) Download [Improved Follower Dialogue - Lydia and Lucien (Minor Patch)](X).
 
-   - Install it under the name **[NoDelete] [002.34] Improved Follower Dialogue - Lydia and Lucien (Minor Patch)**
+   - Install it under the name **[NoDelete] [002.22] Improved Follower Dialogue - Lydia and Lucien (Minor Patch)**
 
 ## Custom Followers
 
-16.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Once you have it placed in your downloads folder, you should see a file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.2" right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+23.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". Once you have it placed in your downloads folder where your Redoran downloads are located, you should see a file called "BWB-HSF-Kaidan-2-Extended-Edition-8.3.2" right at the top of MO2 on the right side. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [002.16] Kaidan Extended Edition** 
+   - Install it under the name **[NoDelete] [002.23] Kaidan Extended Edition** 
 
-17.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
+24.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [002.17] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
+   - Install it under the name **[NoDelete] [002.24] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
 
-18.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+25.) Download [Skyrim's Got Talent Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Skyrim's Got Talent Patch** should be available. Press "Download Version 1.1". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [002.18] Kaidan Extended Edition - Skyrim's Got Talent Patch**
+   - Install it under the name **[NoDelete] [002.25] Kaidan Extended Edition - Skyrim's Got Talent Patch**
 
-19.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+26.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [002.19] Kaidan Extended Edition - LOTD Patch** 
+   - Install it under the name **[NoDelete] [002.26] Kaidan Extended Edition - LOTD Patch** 
 
-20.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+27.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [002.20] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
+   - Install it under the name **[NoDelete] [002.27] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
 
-21.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+28.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "Kaidan-2-and-Inigo-Banter-Patch-v6.3" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [002.21] Kaidan Extended Edition - Inigo Banter Patch** 
+   - Install it under the name **[NoDelete] [002.28] Kaidan Extended Edition - Inigo Banter Patch** 
 
-34.) Download [M'rissi's Tails of Troubles SE](X).
+29.) Download [Kaidan - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). A little ways down from the top of the website, the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. A file called "BWB-Kaidan-2-Im-Glad-Youre-Here-Patch" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
 
-   - Install it under the name **[NoDelete] [002.34] M'rissi's Tails of Troubles SE**
+   - Install it under the name **[NoDelete] [002.29] Kaidan - I'm Glad You're Here Patch** 
 
-34.) Download [M'rissi's Tails of Troubles SE - Delayed Start](X).
+30.) Download [M'rissi's Tails of Troubles SE](X).
 
-   - Install it under the name **[NoDelete] [002.34] M'rissi's Tails of Troubles SE - Delayed Start**
+   - Install it under the name **[NoDelete] [002.30] M'rissi's Tails of Troubles**
 
-34.) Download [M'rissi is more aware (ESL)](X).
+31.) Download [M'rissi's Tails of Troubles SE - Delayed Start](X).
 
-   - Install it under the name **[NoDelete] [002.34] M'rissi is more aware (ESL)**
+   - Install it under the name **[NoDelete] [002.31] M'rissi's Tails of Troubles - Delayed Start**
 
-34.) Download [M'rissi's Quest Tweaks (ESL)](X).
+32.) Download [M'rissi is more aware (ESL)](X).
 
-   - Install it under the name **[NoDelete] [002.34] M'rissi's Quest Tweaks (ESL)**
+   - Install it under the name **[NoDelete] [002.32] M'rissi is More Aware**
+
+33.) Download [M'rissi's Quest Tweaks (ESL)](X).
+
+   - Install it under the name **[NoDelete] [002.33] M'rissi's Quest Tweaks**
 
 34.) Download [M'rissi's Combat Prowess (ESL)](X).
 
-   - Install it under the name **[NoDelete] [002.34] M'rissi's Combat Prowess (ESL)**
+   - Install it under the name **[NoDelete] [002.34] M'rissi's Combat Prowess**
 
-34.) Download [M'rissi Tails of Troubles Vampirism Fix (ESL)](X).
+35.) Download [M'rissi Tails of Troubles Vampirism Fix (ESL)](X).
 
-   - Install it under the name **[NoDelete] [002.34] M'rissi Tails of Troubles Vampirism Fix (ESL)**
+   - Install it under the name **[NoDelete] [002.35] M'rissi Tails of Troubles Vampirism Fix**
 
-34.) Download [Inigo Player Marriage Commentary Patch for M'rissi](X).
+36.) Download [Inigo Player Marriage Commentary Patch for M'rissi](X).
 
-   - Install it under the name **[NoDelete] [002.34] Inigo Player Marriage Commentary Patch for M'rissi**
+   - Install it under the name **[NoDelete] [002.36] Inigo Player Marriage Commentary Patch for M'rissi**
 
-34.) Download [Race Compatibility Dialogue for M'rissi's Tails of Trouble](X).
+37.) Download [Race Compatibility Dialogue for M'rissi's Tails of Trouble](X).
 
-   - Install it under the name **[NoDelete] [002.34] Race Compatibility Dialogue for M'rissi's Tails of Trouble**
+   - Install it under the name **[NoDelete] [002.37] Race Compatibility Dialogue for M'rissi's Tails of Trouble**
 
-34.) Download [M'rissi Renewed](X) and [M'rissi Renewed - Salt and Wind](X).
+38.) Download [M'rissi Renewed](X) and [M'rissi Renewed - Salt and Wind](X) ("View raw" button).
 
-   - Install the first mod under the name **[NoDelete] [002.34] M'rissi Renewed**
-   - Install the second mod under the name **[NoDelete] [002.34] M'rissi Renewed - Salt and Wind**
+   - Install the first mod under the name **[NoDelete] [002.38] M'rissi Renewed**
+   - Install the second mod under the name **[NoDelete] [002.38] M'rissi Renewed - Salt and Wind**
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
-33.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+39.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [002.33] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [002.39] Relationship Dialogue Overhaul - RDO**
    
-34.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+40.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
-   - Install it under the name **[NoDelete] [002.34] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [002.40] Relationship Dialogue Overhaul - Update and MCM**
    
-35.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+41.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
-   - Install it under the name **[NoDelete] [002.35] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [002.41] Relationship Dialogue Overhaul - UHDAP Patch**
 
-36.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
+42.) Download [RDO - Updated USSEP Subtitle Fixes](X) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [002.36] RDO - Updated USSEP Subtitle Fixes**
+   - Install it under the name **[NoDelete] [002.42] RDO - Updated USSEP Subtitle Fixes**
 
-**IMPORTANT** - Move the following plugins directly ABOVE **bloodbond.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
+**IMPORTANT** - Move the following plugins directly ABOVE **Guard Dialogue Overhaul.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
 
 # Last Steps
 
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
-   - **NOTE** - I took these pictures before I added "002.XX" to the end of each name.
 
 ![Image 1](X)
 
@@ -205,13 +208,13 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 ### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [002.37] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [002.32] Guard Dialogue Overhaul - UHDAP Patch.
+Name it **[NoDelete] [002.43] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [002.38] M'rissi Renewed - Salt and Wind.
 
-   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](X) ] ("View raw" button)**. Name it [NoDelete] [002.38] RedoranSeptimus Extended - NPC Dialogue Megapatch - RDO Integration Patch and place is AFTER RDO and the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
+   - If you downloaded **Relationship Dialogue Overhaul**, download the patch as well from here: **[ [DOWNLOAD](X) ] ("View raw" button)**. Name it [NoDelete] [002.44] Redoran Extended - NPC Dialogue Megapatch - RDO Integration Patch and place is AFTER RDO and the regular megapatch. You need BOTH the regular megapatch and this patch if you plan on using RDO.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently in the process of testing with version 1.0.8+ of Septimus.**
+   - **Currently in the process of testing with version 1.0.0+ of Redoran.**
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
    - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md).**
