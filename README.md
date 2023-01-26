@@ -12,7 +12,7 @@ A **NEW SAVE is required**.
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [02.000] REDORAN EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE DynDOLOD.esp**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE Occlusion.esp**.
 
 ## General Overhauls
 
@@ -168,7 +168,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
    - Install the first mod under the name **[NoDelete] [02.035] M'rissi Renewed**
    - Install the second mod under the name **[NoDelete] [02.035] M'rissi Renewed - Salt and Wind**
 
-### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
 Name it **[NoDelete] [02.036] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.035] M'rissi Renewed - Salt and Wind.
 
@@ -211,7 +211,8 @@ Name it **[NoDelete] [02.042] Redoran Extended - NPC Dialogue Megapatch - RDO In
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 1.0.0+ of Redoran.**
-   - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
+   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
+   - You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button) The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [02.036] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
    - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md).**
 
