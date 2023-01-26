@@ -179,7 +179,7 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
 ![Image 1](https://i.imgur.com/V22ldxy.png)
 
-   - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
+   - Then here's how it should look on the **right side of MO2** in the Plugins tab (ignore RDO if you skipped that part):
 
 ![Image 2](https://i.imgur.com/xylHBg3.png)
 
