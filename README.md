@@ -90,21 +90,24 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [02.017] Authentic Sinding Follower - Salt and Wind**
 
-18.) Download [Improved Follower Dialogue - Lydia](X).
+18.) Download [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=339826&nmm=1), [Improved Follower Dialogue - Lydia - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=338563&nmm=1), [Improved Follower Dialogue - Lydia - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=307812&nmm=1), and [Improved Follower Dialogue - Lydia - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files&file_id=338564&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.018] Improved Follower Dialogue - Lydia**
+   - Install the first mod under the name **[NoDelete] [02.018] Improved Follower Dialogue - Lydia**
+   - Install the second mod under the name **[NoDelete] [02.018] Improved Follower Dialogue - Lydia - Bruma Patch**
+   - Install the third mod under the name **[NoDelete] [02.018] Improved Follower Dialogue - Lydia - LOTD Patch**
+   - Install the fourth mod under the name **[NoDelete] [02.018] Improved Follower Dialogue - Lydia - Wyrmstooth Patch**
 
-19.) Download [mproved Follower Dialogue - Lydia - Lipsync Minor Fix](X).
+19.) Download [mproved Follower Dialogue - Lydia - Lipsync Minor Fix](https://www.nexusmods.com/skyrimspecialedition/mods/81208?tab=files&file_id=342884&nmm=1).
 
    - Install it under the name **[NoDelete] [02.019] Improved Follower Dialogue - Lydia - Lipsync Minor Fix**
 
-20.) Download [Improved Follower Dialogue - Lydia - INIGO (Minor Patch)](X).
+20.) Download [Improved Follower Dialogue - Lydia - INIGO (Minor Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/81203?tab=files&file_id=342852&nmm=1).
 
    - Install it under the name **[NoDelete] [02.020] Improved Follower Dialogue - Lydia - INIGO (Minor Patch)**
 
-21.) Download [Improved Follower Dialogue - Lydia and Lucien (Minor Patch)](X).
+21.) Download [Improved Follower Dialogue - Lydia and Lucien (Minor Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/81568?tab=files&file_id=344377&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.021] Improved Follower Dialogue - Lydia and Lucien (Minor Patch)**
+   - Install it under the name **[NoDelete] [02.021] Improved Follower Dialogue - Lydia - Lucien (Minor Patch)**
 
 ## Custom Followers
 
