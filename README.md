@@ -139,62 +139,58 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch** 
 
-29.) Download [M'rissi's Tails of Troubles SE](X). In the FOMOD, select Sininensusi and UNP, then press Next. Select Main, Light underwear, and Green wedding dress, then press Next. Select Main, then press Next. Select Main and Gold, then press Next. Select No, then press Next. Do not tick the final box, then press Install.
+29.) Download [M'rissi's Tails of Troubles SE](https://www.nexusmods.com/skyrimspecialedition/mods/9666?tab=files&file_id=205314&nmm=1). In the FOMOD, select Sininensusi and UNP, then press Next. Select Main, Light underwear, and Green wedding dress, then press Next. Select Main, then press Next. Select Main and Gold, then press Next. Select No, then press Next. Do not tick the final box, then press Install.
 
    - Install it under the name **[NoDelete] [02.029] M'rissi's Tails of Troubles**
 
-30.) Download [M'rissi's Tails of Troubles SE - Delayed Start](X).
+30.) Download [M'rissi is more aware (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/73533?tab=files&file_id=312567&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.030] M'rissi's Tails of Troubles - Delayed Start**
+   - Install it under the name **[NoDelete] [02.030] M'rissi is More Aware**
 
-31.) Download [M'rissi is more aware (ESL)](X).
+31.) Download [M'rissi's Quest Tweaks (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/73713?tab=files&file_id=310006&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.031] M'rissi is More Aware**
+   - Install it under the name **[NoDelete] [02.031] M'rissi's Quest Tweaks**
 
-32.) Download [M'rissi's Quest Tweaks (ESL)](X).
+32.) Download [M'rissi's Combat Prowess (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/73587?tab=files&file_id=311224&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.032] M'rissi's Quest Tweaks**
+   - Install it under the name **[NoDelete] [02.032] M'rissi's Combat Prowess**
 
-33.) Download [M'rissi's Combat Prowess (ESL)](X).
+33.) Download [M'rissi Tails of Troubles Vampirism Fix (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/72991?tab=files&file_id=308112&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.033] M'rissi's Combat Prowess**
+   - Install it under the name **[NoDelete] [02.033] M'rissi Tails of Troubles Vampirism Fix**
 
-34.) Download [M'rissi Tails of Troubles Vampirism Fix (ESL)](X).
+34.) Download [Inigo Player Marriage Commentary Patch for M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/35247?tab=files&file_id=336247&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.034] M'rissi Tails of Troubles Vampirism Fix**
+   - Install it under the name **[NoDelete] [02.034] Inigo Player Marriage Commentary Patch for M'rissi**
 
-35.) Download [Inigo Player Marriage Commentary Patch for M'rissi](X).
+35.) Download [M'rissi Renewed](https://www.nexusmods.com/skyrimspecialedition/mods/36830?tab=files&file_id=146400&nmm=1) and [M'rissi Renewed - Salt and Wind](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/M'rissi%20Renewed%20-%20Salt%20and%20Wind.7z) ("View raw" button). In the first mod's FOMOD, select UNP, then press Next. Select Long, the press Next. Select Amber, then press Next. Select Facial Markings, then press Next. Tick the Install box, then press Install.
 
-   - Install it under the name **[NoDelete] [02.035] Inigo Player Marriage Commentary Patch for M'rissi**
-
-36.) Download [M'rissi Renewed](X) and [M'rissi Renewed - Salt and Wind](X) ("View raw" button).
-
-   - Install the first mod under the name **[NoDelete] [02.036] M'rissi Renewed**
-   - Install the second mod under the name **[NoDelete] [02.036] M'rissi Renewed - Salt and Wind**
+   - Install the first mod under the name **[NoDelete] [02.035] M'rissi Renewed**
+   - Install the second mod under the name **[NoDelete] [02.035] M'rissi Renewed - Salt and Wind**
 
 ### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [02.037] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.036] M'rissi Renewed - Salt and Wind.
+Name it **[NoDelete] [02.036] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.035] M'rissi Renewed - Salt and Wind.
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
-37.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+36.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.038] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [02.037] Relationship Dialogue Overhaul - RDO**
    
-38.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+37.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.039] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [02.038] Relationship Dialogue Overhaul - Update and MCM**
    
-39.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+38.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.040] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [02.039] Relationship Dialogue Overhaul - UHDAP Patch**
 
-40.) Download [RDO - Updated USSEP Subtitle Fixes](X) ("View raw" button).
+39.) Download [RDO - Updated USSEP Subtitle Fixes](X) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [02.041] RDO - Updated USSEP Subtitle Fixes**
+   - Install it under the name **[NoDelete] [02.040] RDO - Updated USSEP Subtitle Fixes**
 
 **IMPORTANT** - Move the following plugins directly ABOVE **Guard Dialogue Overhaul.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
 
