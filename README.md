@@ -114,6 +114,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 ## Custom Followers
 
 22.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". 
+   - **IMPORTANT** - The guide currently uses the older version of this mod that's available on Nexus, and already comes with a plugin called **BWB - Kaidan 2 Extra Dialogue.esp**. It needs to load above the AX KaidanArsenal - Extended Edition Patch.esp, so **we'll leave the .esp where it is**.
 
    - Install it under the name **[NoDelete] [02.022] Kaidan Extended Edition** 
 
