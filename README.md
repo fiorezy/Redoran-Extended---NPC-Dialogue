@@ -139,64 +139,35 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch** 
 
-29.) Download [M'rissi's Tails of Troubles SE](https://www.nexusmods.com/skyrimspecialedition/mods/9666?tab=files&file_id=205314&nmm=1). In the FOMOD, select Sininensusi and UNP, then press Next. Select Main, Light underwear, and Green wedding dress, then press Next. Select Main, then press Next. Select Main and Gold, then press Next. Select No, then press Next. Do not tick the final box, then press Install.
-
-   - Install it under the name **[NoDelete] [02.029] M'rissi's Tails of Troubles**
-
-30.) Download [M'rissi is more aware (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/73533?tab=files&file_id=312567&nmm=1).
-
-   - Install it under the name **[NoDelete] [02.030] M'rissi is More Aware**
-
-31.) Download [M'rissi's Quest Tweaks (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/73713?tab=files&file_id=310006&nmm=1).
-
-   - Install it under the name **[NoDelete] [02.031] M'rissi's Quest Tweaks**
-
-32.) Download [M'rissi's Combat Prowess (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/73587?tab=files&file_id=311224&nmm=1).
-
-   - Install it under the name **[NoDelete] [02.032] M'rissi's Combat Prowess**
-
-33.) Download [M'rissi Tails of Troubles Vampirism Fix (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/72991?tab=files&file_id=308112&nmm=1).
-
-   - Install it under the name **[NoDelete] [02.033] M'rissi Tails of Troubles Vampirism Fix**
-
-34.) Download [Inigo Player Marriage Commentary Patch for M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/35247?tab=files&file_id=336247&nmm=1).
-
-   - Install it under the name **[NoDelete] [02.034] Inigo Player Marriage Commentary Patch for M'rissi**
-
-35.) Download [M'rissi Renewed](https://www.nexusmods.com/skyrimspecialedition/mods/36830?tab=files&file_id=146400&nmm=1) and [M'rissi Renewed - Salt and Wind](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/M'rissi%20Renewed%20-%20Salt%20and%20Wind.7z) ("View raw" button). In the first mod's FOMOD, select UNP, then press Next. Select Long, the press Next. Select Amber, then press Next. Select Facial Markings, then press Next. Tick the Install box, then press Install.
-
-   - Install the first mod under the name **[NoDelete] [02.035] M'rissi Renewed**
-   - Install the second mod under the name **[NoDelete] [02.035] M'rissi Renewed - Salt and Wind**
-
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [02.036] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.035] M'rissi Renewed - Salt and Wind.
+Name it **[NoDelete] [02.029] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch.
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
-36.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+29.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.037] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [02.030] Relationship Dialogue Overhaul - RDO**
    
-37.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+30.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.038] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [02.031] Relationship Dialogue Overhaul - Update and MCM**
    
-38.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+31.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.039] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [02.032] Relationship Dialogue Overhaul - UHDAP Patch**
 
-39.) Download [RDO - Updated USSEP Subtitle Fixes](X) ("View raw" button).
+32.) Download [RDO - Updated USSEP Subtitle Fixes](X) ("View raw" button).
 
-   - Install it under the name **[NoDelete] [02.040] RDO - Updated USSEP Subtitle Fixes**
+   - Install it under the name **[NoDelete] [02.033] RDO - Updated USSEP Subtitle Fixes**
 
 **IMPORTANT** - Move the following plugins directly ABOVE **Guard Dialogue Overhaul.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp.
 
 ### Snag the megapatch from here: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [02.042] Redoran Extended - NPC Dialogue Megapatch - RDO Integration Patch**, and place it directly AFTER [NoDelete] [02.037] Redoran Extended - NPC Dialogue Megapatch.
+Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO Integration Patch**, and place it directly AFTER [NoDelete] [02.037] Redoran Extended - NPC Dialogue Megapatch.
 
 # Last Steps
 
@@ -211,8 +182,7 @@ Name it **[NoDelete] [02.042] Redoran Extended - NPC Dialogue Megapatch - RDO In
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 1.0.0+ of Redoran.**
-   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
-   - You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button) The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [02.036] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
+   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [02.029] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
    - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md).**
 
@@ -228,14 +198,6 @@ Name it **[NoDelete] [02.042] Redoran Extended - NPC Dialogue Megapatch - RDO In
    - Added Improved Follower Dialogue - Lydia - Lipsync Minor Fix
    - Added Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
    - Added Improved Follower Dialogue - Lydia and Lucien (Minor Patch)
-   - Added M'rissi's Tails of Troubles SE
-   - Added M'rissi's Tails of Troubles SE - Delayed Start
-   - Added M'rissi is more aware (ESL)
-   - Added M'rissi's Quest Tweaks (ESL)
-   - Added M'rissi Tails of Troubles Vampirism Fix (ESL)
-   - Added Inigo Player Marriage Commentary Patch for M'rissi
-   - Added M'rissi Renewed
-   - Added M'rissi Renewed - Salt and Wind
    - Added Misc Dialogue Edits
    - Added More Dialogue Options
    - Added Hunters Not Bandits
