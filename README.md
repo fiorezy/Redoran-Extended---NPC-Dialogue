@@ -177,11 +177,11 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
 # Last Steps
 
-   -  Then here's how the plugin tab on the **left side of MO2** (ignore RDO if you skipped that part):
+   -  Then here's how the Mod Name tab on the **left side of MO2** (ignore RDO if you skipped that part):
 
 ![Image 1](https://i.imgur.com/V22ldxy.png)
 
-   - Then here's how the plugin tab on the **right side of MO2 should look within the Plugins tab** (ignore RDO if you skipped that part):
+   - Then here's how the Plugin tab on the **right side of MO2 should look** (ignore RDO if you skipped that part):
 
 ![Image 2](https://i.imgur.com/xylHBg3.png)
 
