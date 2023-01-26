@@ -177,18 +177,18 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
    - Here's how it should look on the **left side of MO2** (ignore RDO if you skipped that part):
 
-![Image 1](https://i.imgur.com/FGwFdu2.png)
+![Image 1](https://i.imgur.com/V22ldxy.png)
 
    - Then here's how it should look on the **right side of MO2** (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/Iu7PYA6.png)
+![Image 2](https://i.imgur.com/xylHBg3.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 1.0.0+ of Redoran.**
    - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [NoDelete] [02.029] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
 
-![Image 3](https://i.imgur.com/RrROC4s.png)
+![Image 3](https://i.imgur.com/jpzU5U0.png)
 
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
    - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md).**
