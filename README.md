@@ -37,13 +37,14 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
    - Install the first mod under the name **[NoDelete] [02.005] More Dialogue Options** 
    - Install the second mod under the name **[NoDelete] [02.005] More Dialogue Options - Farengar Hotfix**
 
-6.) Download [Hunters Not Bandits](X).
+6.) Download [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547?tab=files&file_id=302371&nmm=1).
 
    - Install it under the name **[NoDelete] [02.006] Hunters Not Bandits** 
 
-7.) Download [Thugs Not Assassins](X).
+7.) Download [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028?tab=files&file_id=131424&nmm=1) and [Thugs Not Assassins - Timing Is Everything Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34028?tab=files&file_id=131423&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.007] Thugs Not Assassins** 
+   - Install the first mod under the name **[NoDelete] [02.007] Thugs Not Assassins** 
+   - Install the second mod under the name **[NoDelete] [02.007] Thugs Not Assassins - Timing Is Everything Patch**
 
 8.) Download [Bloodbond - Contract with the Vampire for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25493?tab=files&file_id=271411&nmm=1). In the FOMOD, select Vanilla, then press Next, then press Install.
 
