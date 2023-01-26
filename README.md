@@ -68,25 +68,27 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [02.012] Serana Dialogue Add-On Patch Hub - SDE**
 
-13.) Download [Serana Dialogue Add-on - Mysticism Patch](X).
+13.) Download [Serana Dialogue Add-on - Mysticism Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82966?tab=files&file_id=350610&nmm=1).
 
    - Install it under the name **[NoDelete] [02.013] SDA - Mysticism Patch**
 
-14.) Download [Serana Dialogue Add-On - Pilgrim Patch](X).
+14.) Download [Serana Dialogue Add-On - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82966?tab=files&file_id=350611&nmm=1).
 
    - Install it under the name **[NoDelete] [02.014] SDA - Pilgrim Patch**
 
-15.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](X).
+15.) Download [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](https://www.nexusmods.com/skyrimspecialedition/mods/41596?tab=files&file_id=166432&nmm=1) and [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2) - Update](https://www.nexusmods.com/skyrimspecialedition/mods/41596?tab=files&file_id=202455&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
+   - Install the first mod under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
+   - Install the second mod under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2) - Update**
 
-16.) Download [Authentic Sinding Follower SE](X).
+16.) Download [Authentic Sinding Follower SE](X) and [Authentic Sinding Follower - Family Addon](). For the first mod's FOMOD, select Vanilla Werewolf and Crime, then press Next. Select Werewolf textures - Vanilla style black, Werewolf Eye textures - Grey (Default), Werewolf body - SFW (Default), and Werewolf head - Closed mouth (Default), then press Next. Tick the box for Vanilla-friendly facegeometry tweak, then press Install. In the second mod's FOMOD, select Install.
 
-   - Install it under the name **[NoDelete] [02.016] Authentic Sinding Follower**
+   - Install the first mod under the name **[NoDelete] [02.016] Authentic Sinding Follower**
+   - Install the second mod under the name **[NoDelete] [02.016] Authentic Sinding Follower - Family Addon**
 
-17.) Download [Authentic Sinding Follower - Redoran Patch](X) ("View raw" button). Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation.
+17.) Download [Authentic Sinding Follower - Salt and Wind](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Authentic%20Sinding%20Follower%20-%20Salt%20and%20Wind.7z) ("View raw" button). Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation.
 
-   - Install it under the name **[NoDelete] [02.017] Authentic Sinding Follower - Redoran Patch**
+   - Install it under the name **[NoDelete] [02.017] Authentic Sinding Follower - Salt and Wind**
 
 18.) Download [Improved Follower Dialogue - Lydia](X).
 
