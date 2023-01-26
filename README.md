@@ -115,7 +115,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [02.022] Kaidan Extended Edition** 
 
-23.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](X) ("View raw" button).
+23.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
 
    - Install it under the name **[NoDelete] [02.023] Kaidan Extended Edition - No Blade in the Dark Requirement Patch** 
 
@@ -125,7 +125,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 25.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **LOTD Patch** should be available. Press "Download Version 1.0".
 
-   - Install it under the name **[NoDelete] [02.024] Kaidan Extended Edition - LOTD Patch** 
+   - Install it under the name **[NoDelete] [02.025] Kaidan Extended Edition - LOTD Patch** 
 
 26.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0".
 
@@ -137,9 +137,9 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 28.) Download [Kaidan - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). A little ways down from the top of the website, the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0".
 
-   - Install it under the name **[NoDelete] [02.028] Kaidan - I'm Glad You're Here Patch** 
+   - Install it under the name **[NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch** 
 
-29.) Download [M'rissi's Tails of Troubles SE](X).
+29.) Download [M'rissi's Tails of Troubles SE](X). In the FOMOD, select Sininensusi and UNP, then press Next. Select Main, Light underwear, and Green wedding dress, then press Next. Select Main, then press Next. Select Main and Gold, then press Next. Select No, then press Next. Do not tick the final box, then press Install.
 
    - Install it under the name **[NoDelete] [02.029] M'rissi's Tails of Troubles**
 
