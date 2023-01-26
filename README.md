@@ -81,7 +81,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
    - Install the first mod under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
    - Install the second mod under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2) - Update**
 
-16.) Download [Authentic Sinding Follower SE](X) and [Authentic Sinding Follower - Family Addon](). For the first mod's FOMOD, select Vanilla Werewolf and Crime, then press Next. Select Werewolf textures - Vanilla style black, Werewolf Eye textures - Grey (Default), Werewolf body - SFW (Default), and Werewolf head - Closed mouth (Default), then press Next. Tick the box for Vanilla-friendly facegeometry tweak, then press Install. In the second mod's FOMOD, select Install.
+16.) Download [Authentic Sinding Follower SE](https://www.nexusmods.com/skyrimspecialedition/mods/33517?tab=files&file_id=340679&nmm=1#) and [Authentic Sinding Follower - Family Addon](https://www.nexusmods.com/skyrimspecialedition/mods/33517?tab=files&file_id=335631&nmm=1#). For the first mod's FOMOD, select Vanilla Werewolf and Crime, then press Next. Select Werewolf textures - Vanilla style black, Werewolf Eye textures - Grey (Default), Werewolf body - SFW (Default), and Werewolf head - Closed mouth (Default), then press Next. Tick the box for Vanilla-friendly facegeometry tweak, then press Install. In the second mod's FOMOD, select Install.
 
    - Install the first mod under the name **[NoDelete] [02.016] Authentic Sinding Follower**
    - Install the second mod under the name **[NoDelete] [02.016] Authentic Sinding Follower - Family Addon**
