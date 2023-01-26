@@ -14,6 +14,8 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
 All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE Occlusion.esp**.
 
+Screenshots are available at the bottom of this page to compare as you go.
+
 ## General Overhauls
 
 1.) Download [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=249890&nmm=1).
