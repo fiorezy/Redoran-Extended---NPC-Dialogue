@@ -28,13 +28,14 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
    - Install it under the name **[NoDelete] [02.003] Guard Dialogue Overhaul - UHDAP Patch** 
 
-4.) Download [Misc Dialogue Edits](X).
+4.) Download [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files&file_id=325863&nmm=1). In the FOMOD, select Alternate Start - Live Another Life, Guard Dialogue Overhaul, and Save the Ice Runner, then press Install. If the option for Guard Dialogue Overhaul is greyed out, you need to enable Guard Dialogue Overhaul first, then try to install the Misc Dialogue Edits again.
 
    - Install it under the name **[NoDelete] [02.004] Misc Dialogue Edits** 
 
-5.) Download [More Dialogue Options](X).
+5.) Download [More Dialogue Options](https://www.nexusmods.com/skyrimspecialedition/mods/28905?tab=files&file_id=325829&nmm=1) and [More Dialogue Options - Farengar Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/28905?tab=files&file_id=326296&nmm=1). In the FOMOD for the first mod, select Guard Dialogue Overhaul, then press Install. If the option for Guard Dialogue Overhaul is greyed out, you need to enable Guard Dialogue Overhaul first, then try to install the More Dialogue Options again.
 
-   - Install it under the name **[NoDelete] [02.005] More Dialogue Options** 
+   - Install the first mod under the name **[NoDelete] [02.005] More Dialogue Options** 
+   - Install the second mod under the name **[NoDelete] [02.005] More Dialogue Options - Farengar Hotfix**
 
 6.) Download [Hunters Not Bandits](X).
 
