@@ -194,7 +194,6 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 ![Image 3](https://i.imgur.com/jpzU5U0.png)
 
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
-   - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran-Extended---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog 
 
