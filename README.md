@@ -88,7 +88,7 @@ Screenshots are available at the bottom of this page to compare as you go.
    - Install the first mod under the name **[NoDelete] [02.016] Authentic Sinding Follower**
    - Install the second mod under the name **[NoDelete] [02.016] Authentic Sinding Follower - Family Addon**
 
-17.) Download [Authentic Sinding Follower - Salt and Wind](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Authentic%20Sinding%20Follower%20-%20Salt%20and%20Wind.7z) ("View raw" button). Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation.
+17.) Download [Authentic Sinding Follower - Salt and Wind](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Authentic%20Sinding%20Follower%20-%20Salt%20and%20Wind.7z) ("View raw" button). Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. If it still isn't showing, tick the Hidden Files box at the bottom of the Downloads tab. Once you see the file, double-click it, then proceed to installation.
 
    - Install it under the name **[NoDelete] [02.017] Authentic Sinding Follower - Salt and Wind**
 
