@@ -148,7 +148,7 @@ Name it **[NoDelete] [02.029] Redoran Extended - NPC Dialogue Megapatch**, and p
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
+**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. There is a conflict with Missing Follower Dialogue Edit that's incorporated into the main guide, so you may run into duplicated "Follow me." dialogue options. You may also have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
 29.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
