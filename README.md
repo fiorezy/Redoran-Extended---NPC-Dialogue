@@ -12,7 +12,7 @@ A **NEW SAVE is required**.
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [02.000] REDORAN EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE Occlusion.esp**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE DynDOLOD.esp**.
 
 Screenshots are available at the bottom of this page to compare as you go.
 
