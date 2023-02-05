@@ -116,7 +116,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 22.) Download [Kaidan Extended Edition](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan Extended Edition** file should be available. Press "Download Version 8.3.2". 
    - **IMPORTANT** - The guide currently uses the older version of this mod that's available on Nexus, and already comes with a plugin called **BWB - Kaidan 2 Extra Dialogue.esp**. It needs to load above the AX KaidanArsenal - Extended Edition Patch.esp, so **we'll leave the .esp where it is**.
 
-   - Install it under the name **[NoDelete] [02.022] Kaidan Extended Edition** 
+   - Install it under the name **[NoDelete] [02.022] Kaidan Extended Edition (Updated)** 
 
 23.) Download [Kaidan Extended Edition - No Blade in the Dark Requirement Patch](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Kaidan%202%20Extended%20Edition%20-%20No%20Blade%20in%20the%20Dark%20Requirement%20Patch.7z) ("View raw" button).
 
@@ -138,25 +138,25 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [02.027] Kaidan Extended Edition - Inigo Banter Patch** 
 
-28.) Download [Kaidan - I'm Glad You're Here Patch](https://kaidanmod.com/downloads/). A little ways down from the top of the website, the **I'm Glad You're Here Patch** should be available. Press "Download Version 1.0".
-
-   - Install it under the name **[NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch** 
-
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [02.029] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch.
+Name it **[NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch.
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
-**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. There is a conflict with Missing Follower Dialogue Edit that's incorporated into the main guide, so you may run into duplicated "Follow me." dialogue options. You may also have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
+**WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may also have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
-29.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+28.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.030] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [02.029] Relationship Dialogue Overhaul - RDO**
+
+29.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+
+   - Install it under the name **[NoDelete] [02.030] Relationship Dialogue Overhaul - Update and MCM**
    
-30.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+30.) Download [Relationship Dialogue Overhaul - Update and MCM - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57212?tab=files&file_id=235657&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.031] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [02.031] Relationship Dialogue Overhaul - Update and MCM - Settings Loader**
    
 31.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
@@ -180,16 +180,16 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
    -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore RDO if you skipped that part):
 
-![Image 1](https://i.imgur.com/V22ldxy.png)
+![Image 1](https://i.imgur.com/Fd662EA.png)
 
    - Then here's how the Plugin tab on the **right side of MO2** should look (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/xylHBg3.png)
+![Image 2](https://i.imgur.com/bkYlYhJ.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 1.0.0+ of Redoran.**
-   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [NoDelete] [02.029] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
+   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
 
 ![Image 3](https://i.imgur.com/jpzU5U0.png)
 
@@ -198,6 +198,10 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 # Changelog 
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+5.1.0
+   - Added Relationship Dialogue Overhaul - Update and MCM - Settings Loader
+   - Removed Kaidan Extended Edition - I'm Glad You're Here Patch
 
 5.0.0
    - Added Serana Dialogue Add-on - Simonrim Patches
