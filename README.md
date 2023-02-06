@@ -140,7 +140,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.028] Kaidan Extended Edition - I'm Glad You're Here Patch.
+Name it **[NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.027] Kaidan Extended Edition - Inigo Banter Patch.
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
