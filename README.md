@@ -166,19 +166,16 @@ Name it **[NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch**, and p
 
    - Install it under the name **[NoDelete] [02.033] RDO - Updated USSEP Subtitle Fixes**
 
-33.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419&nmm=1).
-
-   - Install it under the name **[NoDelete] [02.034] Underwhelming Multiple Followers - USSEP - RDO Patch**
-
 **IMPORTANT** - Move the following plugins directly ABOVE **Guard Dialogue Overhaul.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp | LarsepanUMF-RDO-USSEP-Patch.esp.
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20RDO%20Patch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO Integration Patch**, and place it directly AFTER [NoDelete] [02.034] Underwhelming Multiple Followers - USSEP - RDO Patch.
+Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO Integration Patch**, and place it directly AFTER [NoDelete] [02.033] RDO - Updated USSEP Subtitle Fixes.
 
 # Last Steps
 
    -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore RDO if you skipped that part):
+   -  **NOTE** - I took these pictures before I removed Underwhelming Multiple Followers - USSEP - RDO Patch, so please ignore that part.
 
 ![Image 1](https://i.imgur.com/Fd662EA.png)
 
@@ -204,6 +201,11 @@ Name it **[NoDelete] [02.035] Redoran Extended - NPC Dialogue Megapatch - RDO In
 # Changelog 
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+5.2.0
+   - Updated megapatch
+   - Updated RDO megapatch
+   - Removed Underwhelming Multiple Followers - USSEP - RDO Patch
 
 5.1.0
    - Added Relationship Dialogue Overhaul - Update and MCM - Settings Loader
