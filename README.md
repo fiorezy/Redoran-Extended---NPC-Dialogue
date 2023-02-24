@@ -174,7 +174,7 @@ Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
 # Last Steps
 
-   -  Then here's how the Mod Name tab on the **left side of MO2** should look (ignore RDO if you skipped that part):
+   -  Here's how the Mod Name tab on the **left side of MO2** should look (ignore RDO if you skipped that part):
    -  **NOTE** - I took these pictures before I removed Underwhelming Multiple Followers - USSEP - RDO Patch, so please ignore that part.
 
 ![Image 1](https://i.imgur.com/Fd662EA.png)
