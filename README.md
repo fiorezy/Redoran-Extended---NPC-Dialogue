@@ -185,20 +185,28 @@ Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently works with version 1.4.0+ of Redoran.**
+# Addon Compatibility
+
    - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
 
-   - Left side of MO2:
+Left side of MO2:
 
 ![Image 3](https://i.imgur.com/McS7Jec.png)
 
-   - Right side of MO2:
+Right side of MO2:
 
 ![Image 4](https://i.imgur.com/CRuX0eP.png)
 
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
+   - **Currently need a patch to work with [Redoran-Extended - Survival Addon](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/README.md).** To install the patch, go back to step #11 for X. In the FOMOD, tick the Campfire patch on the 2nd page.
+
+### If using multiple addons, please see the image below for load order guidance:
+
+![Image Addon Load Order](https://i.imgur.com/QA9N71C.png)
 
 # Changelog 
+
+**Currently works with version 1.4.0+ of Redoran.**
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
