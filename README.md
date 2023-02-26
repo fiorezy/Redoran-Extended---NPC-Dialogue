@@ -83,7 +83,7 @@ Screenshots are available at the bottom of this page to compare as you go.
    - Install the first mod under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)**
    - Install the second mod under the name **[NoDelete] [02.015] Cursed -Sinding Voice Rework- (Enigma Series Chapter 2) - Update**
 
-16.) Download [Authentic Sinding Follower SE](https://www.nexusmods.com/skyrimspecialedition/mods/33517?tab=files&file_id=340679&nmm=1#) and [Authentic Sinding Follower - Family Addon](https://www.nexusmods.com/skyrimspecialedition/mods/33517?tab=files&file_id=335631&nmm=1#). For the first mod's FOMOD, select Vanilla Werewolf and Crime, then press Next. Select Werewolf textures - Vanilla style black, Werewolf Eye textures - Grey (Default), Werewolf body - SFW (Default), and Werewolf head - Closed mouth (Default), then press Next. Tick the box for Vanilla-friendly facegeometry tweak, then press Install. In the second mod's FOMOD, select Install.
+16.) Download [Authentic Sinding Follower SE](https://www.nexusmods.com/skyrimspecialedition/mods/33517?tab=files&file_id=340679&nmm=1#) and [Authentic Sinding Follower - Family Addon](https://www.nexusmods.com/skyrimspecialedition/mods/33517?tab=files&file_id=335631&nmm=1#). For the first mod's FOMOD, select DWC Werewolf and Crime, then press Next. Select Werewolf textures - Diverse Werewolves Collection style, Werewolf Eye textures - Natural, Werewolf body - SFW (Default), and Werewolf head - Closed mouth (Default), then press Next. Tick the box for Vanilla-friendly facegeometry tweak, then press Install. In the second mod's FOMOD, select Install.
 
    - Install the first mod under the name **[NoDelete] [02.016] Authentic Sinding Follower**
    - Install the second mod under the name **[NoDelete] [02.016] Authentic Sinding Follower - Family Addon**
@@ -181,7 +181,7 @@ Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
    - Then here's how the Plugin tab on the **right side of MO2** should look (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/bkYlYhJ.png)
+![Image 2](https://i.imgur.com/RJVyx5S.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
@@ -198,7 +198,7 @@ Right side of MO2:
 ![Image 4](https://i.imgur.com/CRuX0eP.png)
 
    - **Currently works with [Redoran-Extended - Textures Addon](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/README.md).**
-   - **Currently need a patch to work with [Redoran-Extended - Survival Addon](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/README.md).** To install the patch, go back to step #11 for X. In the FOMOD, tick the Campfire patch on the 2nd page.
+   - **Currently need a patch to work with [Redoran-Extended - Survival Addon](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/README.md).** To install the patch, go back to step #11 Serana Dialogue Add-On Patch Hub. In the FOMOD, select Next, Next, tick the Campfire patch on the 3rd page then select Next, tick the following patches: NPCs Wear Amulets of Mara and Remiel. Then press Next. On the Feature Preference Patches page I personally tick the Clothed Sleep Patch, but I'll leave that option up to you. Either way, if you decide to tick it or not, it will not affect the megapatch in the end. Press Next one more time, then hit Install. Place the new SDA Campfire patch below the other patches from that same FOMOD.
 
 ### If using multiple addons, please see the image below for load order guidance:
 
@@ -206,9 +206,12 @@ Right side of MO2:
 
 # Changelog 
 
-**Currently works with version 1.4.0+ of Redoran.**
+**Currently works with version 1.4.2+ of Redoran.**
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+5.2.1
+   - Updated instructions for #16 Authentic Sinding Follower SE
 
 5.2.0
    - Updated megapatch
