@@ -8,6 +8,8 @@ Hello! This addon will integrate various mods designed to expand NPC dialogue in
 
 A **NEW SAVE is required**.
 
+**Currently designed to work with version 1.4.2 of Redoran.** A changelog is provided at the bottom.
+
 # Installation
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [02.000] REDORAN EXTENDED - NPC DIALOGUE**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
@@ -206,23 +208,21 @@ Right side of MO2:
 
 # Changelog 
 
-**Currently works with version 1.4.2+ of Redoran.**
-
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
-5.2.1
+Redoran v1.4.2
    - Updated instructions for #16 Authentic Sinding Follower SE
 
-5.2.0
+Redoran v1.4.1
    - Updated megapatch
    - Updated RDO megapatch
    - Removed Underwhelming Multiple Followers - USSEP - RDO Patch
 
-5.1.0
+X.X.X
    - Added Relationship Dialogue Overhaul - Update and MCM - Settings Loader
    - Removed Kaidan Extended Edition - I'm Glad You're Here Patch
 
-5.0.0
+X.X.X
    - Added Serana Dialogue Add-on - Simonrim Patches
    - Added Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)
    - Added Authentic Sinding Follower SE
