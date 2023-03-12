@@ -8,7 +8,7 @@ Hello! This addon will integrate various mods designed to expand NPC dialogue in
 
 A **NEW SAVE is required**.
 
-**Currently designed to work with version 1.4.2 of Redoran.** A changelog is provided at the bottom.
+**Currently designed to work with version 1.5.0 of Redoran.** A changelog is provided at the bottom.
 
 # Installation
 
@@ -32,7 +32,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [02.003] Guard Dialogue Overhaul - UHDAP Patch** 
 
-4.) Download [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files&file_id=325863&nmm=1). In the FOMOD, select Alternate Start - Live Another Life, Guard Dialogue Overhaul, and Save the Ice Runner, then press Install. If the option for Guard Dialogue Overhaul is greyed out, you need to enable Guard Dialogue Overhaul first, then try to install the Misc Dialogue Edits again.
+4.) Download [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files&file_id=325863&nmm=1). In the FOMOD, make sure the patches Alternate Start - Live Another Life and Save the Ice Runner are ticked, then press Install. If the option for Guard Dialogue Overhaul is greyed out, you need to enable Guard Dialogue Overhaul first, then try to install the Misc Dialogue Edits again.
 
    - Install it under the name **[NoDelete] [02.004] Misc Dialogue Edits** 
 
@@ -209,6 +209,13 @@ Right side of MO2:
 # Changelog 
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+Redoran v1.5.0
+   - Updated Misc Dialogue Edits
+   - Updated instructions for 4.) Misc Dialogue Edits
+
+Redoran v1.4.3.1
+   - No changes needed
 
 Redoran v1.4.3
    - No changes needed
