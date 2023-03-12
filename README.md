@@ -160,9 +160,9 @@ Name it **[NoDelete] [02.027] Redoran Extended - NPC Dialogue Megapatch**, and p
 
    - Install it under the name **[NoDelete] [02.031] Relationship Dialogue Overhaul - UHDAP Patch**
 
-31.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+31.) Download [Underwhelming Multiple Followers - USSEP - RDO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/25745?tab=files&file_id=134419&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.032] Relationship Dialogue Overhaul - UHDAP Patch**
+   - Install it under the name **[NoDelete] [02.032] Underwhelming Multiple Followers - USSEP - RDO Patch**
 
 32.) Download [RDO - Updated USSEP Subtitle Fixes](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/RDO%20-%20Updated%20USSEP%20Subtitle%20Fixes.7z) ("View raw" button).
 
