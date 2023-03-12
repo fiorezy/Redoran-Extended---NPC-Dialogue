@@ -132,17 +132,13 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [02.025] Kaidan Extended Edition - LOTD Patch** 
 
-26.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down to a little further than the middle of the website, and the **Cheesemod Patch** should be available. Press "Download Version 1.0".
+26.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3".
 
-   - Install it under the name **[NoDelete] [02.026] Kaidan Extended Edition - LOTD - Cheesemod Patch** 
-
-27.) Download [Kaidan & Inigo Banter Patch](https://kaidanmod.com/downloads/). At the top of the website, the **Kaidan & Inigo Banter Patch** should be available. Press "Download Version 6.3".
-
-   - Install it under the name **[NoDelete] [02.027] Kaidan Extended Edition - Inigo Banter Patch** 
+   - Install it under the name **[NoDelete] [02.026] Kaidan Extended Edition - Inigo Banter Patch** 
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.027] Kaidan Extended Edition - Inigo Banter Patch.
+Name it **[NoDelete] [02.027] Redoran Extended - NPC Dialogue Megapatch**, and place it directly AFTER [NoDelete] [02.026] Kaidan Extended Edition - Inigo Banter Patch.
 
 ## OPTIONAL (FEEL FREE TO SKIP!)
 
@@ -189,13 +185,13 @@ Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO In
 
 # Addon Compatibility
 
-   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [NoDelete] [02.028] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
+   - **Currently needs a patch to work with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md). You can find a patch here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20NPC%20Overhaul%20Patch.7z) ] ("View raw" button).** The NPC Overhaul Addon should load before the NPC Dialogue Addon, then place this patch after BOTH the megapatches from BOTH addons on BOTH sides of MO2. Name the patch [NoDelete] [02.027] Redoran Extended - NPC Dialogue Megapatch - NPC Overhaul Patch to help with organizational purposes.
 
-Left side of MO2:
+Here's how the Mod Name tab on the **left side of MO2** should look (ignore the incorrect numbering):
 
 ![Image 3](https://i.imgur.com/McS7Jec.png)
 
-Right side of MO2:
+Then here's how the Plugin tab on the **right side of MO2** should look:
 
 ![Image 4](https://i.imgur.com/CRuX0eP.png)
 
@@ -213,6 +209,7 @@ Right side of MO2:
 Redoran v1.5.0
    - Updated Misc Dialogue Edits
    - Updated instructions for 4.) Misc Dialogue Edits
+   - Removed Kaidan Extended Edition - LOTD - Cheesemod Patch
 
 Redoran v1.4.3.1
    - No changes needed
