@@ -32,7 +32,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
    - Install it under the name **[NoDelete] [02.003] Guard Dialogue Overhaul - UHDAP Patch** 
 
-4.) Download [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files&file_id=325863&nmm=1). In the FOMOD, make sure the patches Alternate Start - Live Another Life and Save the Ice Runner are ticked, then press Install. If the option for Guard Dialogue Overhaul is greyed out, you need to enable Guard Dialogue Overhaul first, then try to install the Misc Dialogue Edits again.
+4.) Download [Misc Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/28904?tab=files&file_id=358486&nmm=1). In the FOMOD, make sure the patches Alternate Start - Live Another Life and Save the Ice Runner are ticked, then press Install. If the option for Guard Dialogue Overhaul is greyed out, you need to enable Guard Dialogue Overhaul first, then try to install the Misc Dialogue Edits again.
 
    - Install it under the name **[NoDelete] [02.004] Misc Dialogue Edits** 
 
