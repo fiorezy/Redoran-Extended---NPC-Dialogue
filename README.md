@@ -144,18 +144,22 @@ Name it **[NoDelete] [02.027] Redoran Extended - NPC Dialogue Megapatch**, and p
 
 **WARNING** - Relationship Dialogue Overhaul has been known to **potentially cause crashes**. I have included it as an optional file for those who can't live without it (like me!). It's a mod that **cannot be uninstalled mid-game**, so choose wisely if you want to install this portion. You may also have noticed a patch for RDO in Serana Dialogue Add-On Patch Hub, but you do not need to go back and select it. The changes in that patch are forwarded into the megapatch already. 
 
-28.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
+27.) Download [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.029] Relationship Dialogue Overhaul - RDO**
+   - Install it under the name **[NoDelete] [02.028] Relationship Dialogue Overhaul - RDO**
 
-29.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
+28.) Download [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.030] Relationship Dialogue Overhaul - Update and MCM**
+   - Install it under the name **[NoDelete] [02.029] Relationship Dialogue Overhaul - Update and MCM**
    
-30.) Download [Relationship Dialogue Overhaul - Update and MCM - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57212?tab=files&file_id=235657&nmm=1).
+29.) Download [Relationship Dialogue Overhaul - Update and MCM - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57212?tab=files&file_id=235657&nmm=1).
 
-   - Install it under the name **[NoDelete] [02.031] Relationship Dialogue Overhaul - Update and MCM - Settings Loader**
+   - Install it under the name **[NoDelete] [02.030] Relationship Dialogue Overhaul - Update and MCM - Settings Loader**
    
+30.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
+
+   - Install it under the name **[NoDelete] [02.031] Relationship Dialogue Overhaul - UHDAP Patch**
+
 31.) Download [Relationship Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=182719&nmm=1).
 
    - Install it under the name **[NoDelete] [02.032] Relationship Dialogue Overhaul - UHDAP Patch**
@@ -173,13 +177,12 @@ Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO In
 # Last Steps
 
    -  Here's how the Mod Name tab on the **left side of MO2** should look (ignore RDO if you skipped that part):
-   -  **NOTE** - I took these pictures before I removed Underwhelming Multiple Followers - USSEP - RDO Patch, so please ignore that part.
 
-![Image 1](https://i.imgur.com/Fd662EA.png)
+![Image 1](https://i.imgur.com/KRuNSiW.png)
 
    - Then here's how the Plugin tab on the **right side of MO2** should look (ignore RDO if you skipped that part):
 
-![Image 2](https://i.imgur.com/RJVyx5S.png)
+![Image 2](https://i.imgur.com/k3CjhhJ.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
@@ -207,8 +210,10 @@ Then here's how the Plugin tab on the **right side of MO2** should look:
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 Redoran v1.5.0
+   - Added Underwhelming Multiple Followers - USSEP - RDO Patch
    - Updated Misc Dialogue Edits
    - Updated instructions for 4.) Misc Dialogue Edits
+   - Updated megapatch (ONLY the NPC Dialogue Addon - Megapatch, RDO did not need an update)
    - Removed Kaidan Extended Edition - LOTD - Cheesemod Patch
 
 Redoran v1.4.3.1
