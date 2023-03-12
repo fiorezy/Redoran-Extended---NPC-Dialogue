@@ -8,7 +8,7 @@ Hello! This addon will integrate various mods designed to expand NPC dialogue in
 
 A **NEW SAVE is required**.
 
-**Currently designed to work with version 1.5.0 of Redoran.** A changelog is provided at the bottom.
+**Currently designed to work with version 1.5.1 of Redoran.** A changelog is provided at the bottom.
 
 # Installation
 
@@ -208,6 +208,9 @@ Then here's how the Plugin tab on the **right side of MO2** should look:
 # Changelog 
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Dialogue addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+Redoran v1.5.1
+   - No changes needed
 
 Redoran v1.5.0
    - Added Underwhelming Multiple Followers - USSEP - RDO Patch
