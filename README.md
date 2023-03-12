@@ -170,7 +170,7 @@ Name it **[NoDelete] [02.027] Redoran Extended - NPC Dialogue Megapatch**, and p
 
 **IMPORTANT** - Move the following plugins directly ABOVE **Guard Dialogue Overhaul.esp**: Relationship Dialogue Overhaul.esp | RDO Updated.esp | RDO - Updated USSEP Subtitle Fixes.esp | LarsepanUMF-RDO-USSEP-Patch.esp.
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20RDO%20Integration%20Patch.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/Redoran%20Extended%20-%20NPC%20Dialogue%20Megapatch%20-%20%20RDO%20Integration%20Patch.7z) ] ("View raw" button)
 
 Name it **[NoDelete] [02.034] Redoran Extended - NPC Dialogue Megapatch - RDO Integration Patch**, and place it directly AFTER [NoDelete] [02.033] RDO - Updated USSEP Subtitle Fixes.
 
@@ -213,7 +213,7 @@ Redoran v1.5.0
    - Added Underwhelming Multiple Followers - USSEP - RDO Patch
    - Updated Misc Dialogue Edits
    - Updated instructions for 4.) Misc Dialogue Edits
-   - Updated megapatch (ONLY the NPC Dialogue Addon - Megapatch, RDO did not need an update)
+   - Updated both megapatches for the regular and RDO editions
    - Removed Kaidan Extended Edition - LOTD - Cheesemod Patch
 
 Redoran v1.4.3.1
